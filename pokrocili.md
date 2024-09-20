@@ -31,4 +31,18 @@ při studiu jakéhokoliv oboru.
 Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 
+## 1. hodina (2024-09-19)
+
+<a href="pokrocili-1-01-plan.jpg">
+    <img align="right" src="pokrocili-1-01-plan-small.jpg" style="height:85px">
+</a>
+
+* Brainstorming ohledně projeků, kterým bychom se chtěli věnovat
+* Psaní všemi deseti [s Máriem](https://archive.org/details/TYPING_VGA#)
+  * Pozor, v "Lessons" nutno nastavit "Home Row Only" abychom (prozatím) využívali pouze tlačítka v prostřední řádce
+  * **NIKDY** se nedívejte na klávesnici, pouze nahmatejte ukazováčky výběžky umístěné na klávesách F a J a rozprostřete prsty vedle sebe, palce na mezerník
+  * Využívejte lekci 1, kde vám Mário radí, kterým prstem které ruky psát
+  * Písmena FG a JH jsou obsluhována ukazováčky, vždy se po stisku G či H vraťte na původní pozici
+  * Znak `;` se ukazuje jako pravý malíček, na české klávesnici se ale nalézá vlevo vzadu nad klávesou Tab (nalevo od +/1). Časem se jej naučíte mačkat bez dívání a rychle (mě pomáhá opřít se palcem o mezerník, roztáhnout prsty správným směrem a zmáčknout).
+
 <img align="right" src="../media/robots_bottom.jpg">

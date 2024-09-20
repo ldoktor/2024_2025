@@ -23,6 +23,15 @@ při studiu jakéhokoliv oboru.
 Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 
+## 1. hodina (2024-09-19)
+
+<a href="zacatecnici-1-01-beebot.jpg">
+    <img align="right" src="zacatecnici-1-01-beebot-small.jpg" style="height:85px">
+</a>
+
+* Seznámení s Beeboty (včelkami) - pohyb vpřed a vzad
+* Ovládání [myši](https://decko.ceskatelevize.cz/vyhledavani?q=zv%C4%9B%C5%99inec&t=app) a [klávesnice](https://decko.ceskatelevize.cz/websterovi/websterovi-vzhuru-domu)
+
 * * * * * * * * *
 
 <a name="footnote1">1</a>: Dle psychologa [Jeana Piageta](https://cs.wikipedia.org/wiki/Jean\_Piaget)
