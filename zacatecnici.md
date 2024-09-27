@@ -32,6 +32,17 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 * Seznámení s Beeboty (včelkami) - pohyb vpřed a vzad
 * Ovládání [myši](https://decko.ceskatelevize.cz/vyhledavani?q=zv%C4%9B%C5%99inec&t=app) a [klávesnice](https://decko.ceskatelevize.cz/websterovi/websterovi-vzhuru-domu)
 
+## 2. hodina (2024-09-26)
+
+<a href="zacatecnici-1-02-code-org.jpg">
+    <img align="right" src="zacatecnici-1-02-code-org-small.jpg" style="height:85px">
+</a>
+
+* [www.code.org](www.code.org)
+  * Přihlášení se (pomocí kódu sekce a obrázkového hesla)
+  * Začali jsme sekci "Programujeme s Angry Birds"
+* Soutěž s Beeboty (kdo přijede blíže ke kamarádovi)
+
 * * * * * * * * *
 
 <a name="footnote1">1</a>: Dle psychologa [Jeana Piageta](https://cs.wikipedia.org/wiki/Jean\_Piaget)

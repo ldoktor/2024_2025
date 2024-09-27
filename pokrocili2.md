@@ -45,4 +45,19 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * Písmena FG a JH jsou obsluhována ukazováčky, vždy se po stisku G či H vraťte na původní pozici
   * Znak `;` se ukazuje jako pravý malíček, na české klávesnici se ale nalézá vlevo vzadu nad klávesou Tab (nalevo od +/1). Časem se jej naučíte mačkat bez dívání a rychle (mě pomáhá opřít se palcem o mezerník, roztáhnout prsty správným směrem a zmáčknout).
 
+## 2. hodina (2024-09-26)
+
+* Psaní všemi deseti [s Máriem](https://archive.org/details/TYPING_VGA#)
+* Papírový model [v Blenderu](blender.org)
+  * Seznámení s 3D animačním softwarem Blender
+  * Pohled:
+    * Otáčení scény - `prostřední tlačítko` (kolečko)
+    * Zoom scény - `kolečko myši`
+    * Posunutí scény - `shift+prostřední tlačítko`
+  * Přidání objektu
+    * `shift+A` nebo nahoře menu `Add` (zpravidla chceme objekty typu `Mesh`)
+  * posun objektu - `g` (grab - uchytit)
+    * kdykoliv při posunu můžeme stisknout `x, y, z` a přepnout posouvání objektu pouze v jednom směru (levo-pravo, dopředu-dozadu, nahoru-dolu)
+  * Vytvořili jsme si opičku s kloboučkem
+
 <img align="right" src="../media/robots_bottom.jpg">
