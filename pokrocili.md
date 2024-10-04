@@ -53,4 +53,14 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * Připomenutí prostředí scratch
   * Základní scéna
 
+## 3. hodina (2024-10-04)
+
+<a href="pokrocili-1-03-scratch.jpg">
+    <img align="right" src="pokrocili-1-03-scratch-small.jpg" style="height:85px">
+</a>
+
+* Psaní všemi deseti [s pomocí umimeinformatiku](https://www.umimeinformatiku.cz/psani-vsemi-deseti)
+* [scratch](scratch.mit.edu)
+  * Naučili jsme míč následovat "x" souřadnici myši a vystřelit jej kliknutím tlačítka myši
+
 <img align="right" src="../media/robots_bottom.jpg">

@@ -43,6 +43,17 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * Začali jsme sekci "Programujeme s Angry Birds"
 * Soutěž s Beeboty (kdo přijede blíže ke kamarádovi)
 
+## 3. hodina (2024-10-03)
+
+<a href="zacatecnici-1-03-beebot.jpg">
+    <img align="right" src="zacatecnici-1-03-beebot-small.jpg" style="height:85px">
+</a>
+
+* Beeboti
+  * pohyb na podložce
+* [www.code.org](www.code.org)
+  * Pokračování v "Programujeme s Angry Birds"
+
 * * * * * * * * *
 
 <a name="footnote1">1</a>: Dle psychologa [Jeana Piageta](https://cs.wikipedia.org/wiki/Jean\_Piaget)

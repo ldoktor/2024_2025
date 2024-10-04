@@ -60,4 +60,18 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
     * kdykoliv při posunu můžeme stisknout `x, y, z` a přepnout posouvání objektu pouze v jednom směru (levo-pravo, dopředu-dozadu, nahoru-dolu)
   * Vytvořili jsme si opičku s kloboučkem
 
+## 3. hodina (2024-10-04)
+
+<a href="pokrocili2-1-03-blender.jpg">
+    <img align="right" src="pokrocili2-1-03-blender-small.jpg" style="height:85px">
+</a>
+
+* Psaní všemi deseti [s pomocí umimeinformatiku](https://www.umimeinformatiku.cz/psani-vsemi-deseti)
+* Papírový model [v Blenderu](blender.org)
+  * Opáčko
+  * Otočení - `r` (rotate), následně `x, y, z` pro otočení podle jedné osy (případně prostřední tlačítko myši)
+  * Zvětšení - `s` (scale), následně `x, y, z` pro otočení podle jedné osy (případně prostřední tlačítko myši)
+  * Pojmenované pohledy lze přepínat na numerické klávesnici (`1, 3, 7, 0`, případně otočení `2,4,6,8`)
+  * Další soutěž s opičkou s natočeným kloboučkem o hodnotné ceny
+
 <img align="right" src="../media/robots_bottom.jpg">
