@@ -63,4 +63,9 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 * [scratch](scratch.mit.edu)
   * Naučili jsme míč následovat "x" souřadnici myši a vystřelit jej kliknutím tlačítka myši
 
+## 4. hodina (2024-10-10)
+
+* [scratch](scratch.mit.edu)
+  * Naučili jsme brankáře chodit a chytnout míč
+
 <img align="right" src="../media/robots_bottom.jpg">

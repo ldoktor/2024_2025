@@ -54,6 +54,13 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 * [www.code.org](www.code.org)
   * Pokračování v "Programujeme s Angry Birds"
 
+## 4. hodina (2024-10-10)
+
+* [www.code.org](www.code.org)
+  * Pokračování v "Programujeme s Angry Birds"
+* Beeboti
+  * příběh na podložce
+
 * * * * * * * * *
 
 <a name="footnote1">1</a>: Dle psychologa [Jeana Piageta](https://cs.wikipedia.org/wiki/Jean\_Piaget)

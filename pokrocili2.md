@@ -74,4 +74,19 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * Pojmenované pohledy lze přepínat na numerické klávesnici (`1, 3, 7, 0`, případně otočení `2,4,6,8`)
   * Další soutěž s opičkou s natočeným kloboučkem o hodnotné ceny
 
+## 4. hodina (2024-10-10)
+
+<a href="pokrocili2-1-04-psani.jpg">
+    <img align="right" src="pokrocili2-1-04-psani-small.jpg" style="height:85px">
+</a>
+
+* Psaní všemi deseti [s pomocí umimeinformatiku](https://www.umimeinformatiku.cz/psani-vsemi-deseti)
+* Papírový model [v Blenderu](blender.org)
+  * Opáčko (`shift-a,g,r,s,+x,+y,+z,...`)
+  * Přepínání módů (vlevo nahoře myší nebo klávesa `Tab`)
+    * Object mode (objektový mód) - kompozice scény
+    * Edit mode (editační mód) - úprava jednotlivých objektů
+  * V `edit mode` jsme si vyzkoušeli označení `bodu`, `hrany` a `plochy`, jejich posunutí, rotaci a velikost. Nakonec jsme si ukázali, že můžeme plochu "vytlačit do prostoru pomocí "extrude" `e` a tím rozšířit náš objekt.
+  * Udělali jsme si malou, krychlovou krabičku (`shift+a` `mesh->cube`, `tab`, označit horní plochu, `e`, `s`, trochu zmenšit, `e` posunout dolu)
+
 <img align="right" src="../media/robots_bottom.jpg">
