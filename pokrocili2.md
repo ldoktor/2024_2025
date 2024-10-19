@@ -48,7 +48,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 ## 2. hodina (2024-09-26)
 
 * Psaní všemi deseti [s Máriem](https://archive.org/details/TYPING_VGA#)
-* Papírový model [v Blenderu](blender.org)
+* Papírový model [v Blenderu](https://blender.org)
   * Seznámení s 3D animačním softwarem Blender
   * Pohled:
     * Otáčení scény - `prostřední tlačítko` (kolečko)
@@ -67,7 +67,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 </a>
 
 * Psaní všemi deseti [s pomocí umimeinformatiku](https://www.umimeinformatiku.cz/psani-vsemi-deseti)
-* Papírový model [v Blenderu](blender.org)
+* Papírový model [v Blenderu](https://blender.org)
   * Opáčko
   * Otočení - `r` (rotate), následně `x, y, z` pro otočení podle jedné osy (případně prostřední tlačítko myši)
   * Zvětšení - `s` (scale), následně `x, y, z` pro otočení podle jedné osy (případně prostřední tlačítko myši)
@@ -81,12 +81,25 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 </a>
 
 * Psaní všemi deseti [s pomocí umimeinformatiku](https://www.umimeinformatiku.cz/psani-vsemi-deseti)
-* Papírový model [v Blenderu](blender.org)
+* Papírový model [v Blenderu](https://blender.org)
   * Opáčko (`shift-a,g,r,s,+x,+y,+z,...`)
   * Přepínání módů (vlevo nahoře myší nebo klávesa `Tab`)
     * Object mode (objektový mód) - kompozice scény
     * Edit mode (editační mód) - úprava jednotlivých objektů
   * V `edit mode` jsme si vyzkoušeli označení `bodu`, `hrany` a `plochy`, jejich posunutí, rotaci a velikost. Nakonec jsme si ukázali, že můžeme plochu "vytlačit do prostoru pomocí "extrude" `e` a tím rozšířit náš objekt.
   * Udělali jsme si malou, krychlovou krabičku (`shift+a` `mesh->cube`, `tab`, označit horní plochu, `e`, `s`, trochu zmenšit, `e` posunout dolu)
+
+## 5. hodina (2024-10-17)
+
+<a href="pokrocili2-1-05-blender.jpg">
+    <img align="right" src="pokrocili2-1-05-blender-small.jpg" style="height:85px">
+</a>
+
+* Psaní všemi deseti [s pomocí umimeinformatiku](https://www.umimeinformatiku.cz/psani-vsemi-deseti)
+* Papírový model [v Blenderu](https://blender.org)
+  * Opáčko (`shift-a,g,r,s,+x,+y,+z,tab,výběr-bod/hrana/plocha...`)
+  * První vedené modelování
+  * Rozdělení plochy na menší části - `pravé tlačítko-subidvide`
+  * nástroje `loop cut` ("rozřízne" objekt na dásti), `Add cube` (umožní přidat objekt k existujícímu objektu v edit módu)
 
 <img align="right" src="../media/robots_bottom.jpg">

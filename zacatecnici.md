@@ -61,6 +61,18 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 * Beeboti
   * příběh na podložce
 
+## 5. hodina (2024-10-17)
+
+<a href="zacatecnici-1-05-beebot.jpg">
+    <img align="right" src="zacatecnici-1-05-beebot-small.jpg" style="height:85px">
+</a>
+
+* Beeboti
+  * společný příběh na podložce s převleky
+  * DÚ - vytvořit převlek
+* [www.code.org](www.code.org)
+  * Dokončení "Angry Birds" a začátek "Debuggování se Scratem"
+
 * * * * * * * * *
 
 <a name="footnote1">1</a>: Dle psychologa [Jeana Piageta](https://cs.wikipedia.org/wiki/Jean\_Piaget)

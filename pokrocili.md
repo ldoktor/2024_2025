@@ -48,7 +48,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 ## 2. hodina (2024-09-26)
 
 * Psaní všemi deseti [s Máriem](https://archive.org/details/TYPING_VGA#)
-* [scratch](scratch.mit.edu)
+* [scratch](https://scratch.mit.edu)
   * Brainstorming ohledně téma hry (Fotbal vs. Basketbal)
   * Připomenutí prostředí scratch
   * Základní scéna
@@ -60,12 +60,22 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 </a>
 
 * Psaní všemi deseti [s pomocí umimeinformatiku](https://www.umimeinformatiku.cz/psani-vsemi-deseti)
-* [scratch](scratch.mit.edu)
+* [scratch](https://scratch.mit.edu)
   * Naučili jsme míč následovat "x" souřadnici myši a vystřelit jej kliknutím tlačítka myši
 
 ## 4. hodina (2024-10-10)
 
-* [scratch](scratch.mit.edu)
+<a href="pokrocili-1-04-psani.jpg">
+    <img align="right" src="pokrocili-1-04-psani-small.jpg" style="height:85px">
+</a>
+
+* [scratch](https://scratch.mit.edu)
   * Naučili jsme brankáře chodit a chytnout míč
+
+## 5. hodina (2024-10-17)
+
+* Psaní všemi deseti [s pomocí umimeinformatiku](https://www.umimeinformatiku.cz/psani-vsemi-deseti)
+* [scratch](https://scratch.mit.edu)
+  * Přidali jsme body a na tabuli jsme si probrali podmínky pro jejich přidělení
 
 <img align="right" src="../media/robots_bottom.jpg">
