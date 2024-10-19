@@ -38,7 +38,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
     <img align="right" src="zacatecnici-1-02-code-org-small.jpg" style="height:85px">
 </a>
 
-* [www.code.org](www.code.org)
+* [www.code.org](https://www.code.org)
   * Přihlášení se (pomocí kódu sekce a obrázkového hesla)
   * Začali jsme sekci "Programujeme s Angry Birds"
 * Soutěž s Beeboty (kdo přijede blíže ke kamarádovi)
@@ -51,12 +51,12 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 * Beeboti
   * pohyb na podložce
-* [www.code.org](www.code.org)
+* [www.code.org](https://www.code.org)
   * Pokračování v "Programujeme s Angry Birds"
 
 ## 4. hodina (2024-10-10)
 
-* [www.code.org](www.code.org)
+* [www.code.org](https://www.code.org)
   * Pokračování v "Programujeme s Angry Birds"
 * Beeboti
   * příběh na podložce
@@ -70,7 +70,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 * Beeboti
   * společný příběh na podložce s převleky
   * DÚ - vytvořit převlek
-* [www.code.org](www.code.org)
+* [www.code.org](https://www.code.org)
   * Dokončení "Angry Birds" a začátek "Debuggování se Scratem"
 
 * * * * * * * * *
