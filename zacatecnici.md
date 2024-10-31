@@ -73,6 +73,17 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 * [www.code.org](https://www.code.org)
   * Dokončení "Angry Birds" a začátek "Debuggování se Scratem"
 
+## 6. hodina (2024-10-24)
+
+<a href="zacatecnici-1-06-beebot.jpg">
+    <img align="right" src="zacatecnici-1-06-beebot-small.jpg" style="height:85px">
+</a>
+
+* [www.code.org](https://www.code.org)
+  * "Debuggování se Scratem", častěji jsme využívali "krokování" místo obyčejného "spuštění"
+* Beeboti
+  * Děti přinesly moc krásné převleky, vytvořily s nimi pěkné příběhy a tím si je navzájem představily
+
 * * * * * * * * *
 
 <a name="footnote1">1</a>: Dle psychologa [Jeana Piageta](https://cs.wikipedia.org/wiki/Jean\_Piaget)

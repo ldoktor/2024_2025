@@ -78,4 +78,15 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 * [scratch](https://scratch.mit.edu)
   * Přidali jsme body a na tabuli jsme si probrali podmínky pro jejich přidělení
 
+## 6. hodina (2024-10-24)
+
+* Psaní všemi deseti [s pomocí umimeinformatiku](https://www.umimeinformatiku.cz/psani-vsemi-deseti)
+* [scratch](https://scratch.mit.edu)
+  * S velkým vypětím jsme naučili počítač rozeznat kdy branka padla a kdy ne
+  * (1) dotýkáš se brankáře? (-1b)
+  * (2) jsi na levo od levé tyče? (-1b)
+  * (3) jsi na levo od pravé tyče? (+1b)
+  * (4) (-1b)
+  * Pozor, záleží na pořadí!
+
 <img align="right" src="../media/robots_bottom.jpg">

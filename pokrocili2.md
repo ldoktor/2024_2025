@@ -102,4 +102,15 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * Rozdělení plochy na menší části - `pravé tlačítko-subidvide`
   * nástroje `loop cut` ("rozřízne" objekt na dásti), `Add cube` (umožní přidat objekt k existujícímu objektu v edit módu)
 
+## 6. hodina (2024-10-24)
+
+* Psaní všemi deseti [s pomocí umimeinformatiku](https://www.umimeinformatiku.cz/psani-vsemi-deseti)
+* Papírový model [v Blenderu](https://blender.org)
+  * Vrhli jsme se do tvorby banánu.
+  * Nejprve jsme si na internetu stáhli vzorový obrázek (pohled z boku), uložili jej a v blender přidali pomocí `shift+a` `image->reference`. Následně jsme jej správně natočili a posunuli aby nám nepřekážel v tvorbě.
+  * Z bočního pohledu `1` jsme si umístili a zmenšili kostku tak, aby odpovídala jednomu segmentu banánu.
+  * V pravo nahoře jsme si zapnuli průhlednost `Toggle X-Ray`
+  * Přepnuli do `edit mode` pomocí `tab`
+  * Nyní už jen označit jednu stranu a kombinovat `e` (extrude), `r` (rotate) a `s` (scale) a za chviličku je tu náš banán
+
 <img align="right" src="../media/robots_bottom.jpg">
