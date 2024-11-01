@@ -113,4 +113,10 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * Přepnuli do `edit mode` pomocí `tab`
   * Nyní už jen označit jednu stranu a kombinovat `e` (extrude), `r` (rotate) a `s` (scale) a za chviličku je tu náš banán
 
+## 7. hodina (2024-10-31)
+
+* Psaní všemi deseti [s pomocí umimeinformatiku](https://www.umimeinformatiku.cz/psani-vsemi-deseti)
+* Papírový model [v Blenderu](https://blender.org)
+  * Pokusili jsme se o zjednodušený model `SIG Sauer P250` ale tentokrát se nám moc nedařilo. Příště se snad vrátíme k banánu a poučeni z předchozích nezdarů budeme šikovnější a rychlejší (poznámka: vynechat psaní deseti abychom stihli modelování)
+
 <img align="right" src="../media/robots_bottom.jpg">

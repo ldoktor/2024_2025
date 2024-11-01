@@ -89,4 +89,11 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * (4) (-1b)
   * Pozor, záleží na pořadí!
 
+## 7. hodina (2024-10-31)
+
+* Psaní všemi deseti [s pomocí umimeinformatiku](https://www.umimeinformatiku.cz/psani-vsemi-deseti)
+* [scratch](https://scratch.mit.edu)
+  * Opravy chybek
+  * Vylepšování hry o zvuky, animace, easter eggy...
+
 <img align="right" src="../media/robots_bottom.jpg">

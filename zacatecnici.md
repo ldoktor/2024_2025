@@ -84,6 +84,15 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 * Beeboti
   * Děti přinesly moc krásné převleky, vytvořily s nimi pěkné příběhy a tím si je navzájem představily
 
+## 7. hodina (2024-10-31)
+
+* Beeboti
+  * Seznámili jsme se se směrovou růžicí, Severem (N - North), Jihem (S - South), Západem (W - West) a Východem (E - East) a s tím, jak se používá v navigaci, na mapě a následně i na podložce.
+  * Přesně jsme určovali pozici včelek na podložkách (A1N, E4E, C2S, ...)
+  * Zkusili jsme zápis programu, ale k tomu se musíme ještě vrátit
+* Ricochet Robots
+  * Za odměnu jsme si zkusili pěknou logickou deskovku s roboty co nemají brzdy a musí se dostat na určená místa
+
 * * * * * * * * *
 
 <a name="footnote1">1</a>: Dle psychologa [Jeana Piageta](https://cs.wikipedia.org/wiki/Jean\_Piaget)
