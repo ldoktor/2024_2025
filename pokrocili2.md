@@ -119,4 +119,24 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 * Papírový model [v Blenderu](https://blender.org)
   * Pokusili jsme se o zjednodušený model `SIG Sauer P250` ale tentokrát se nám moc nedařilo. Příště se snad vrátíme k banánu a poučeni z předchozích nezdarů budeme šikovnější a rychlejší (poznámka: vynechat psaní deseti abychom stihli modelování)
 
+## 8. hodina (2024-11-07)
+
+<a href="pokrocili2-1-08-blender.jpg">
+    <img align="right" src="pokrocili2-1-08-blender-small.jpg" style="height:85px">
+</a>
+
+* Papírový model [v Blenderu](https://blender.org)
+  * Vytvořili jsme banán [blend](pokrocili2-1-08-blender.blend)
+  * Zmenšili jej na požadovanou velikost (podle velikosti baterií)
+  * Nainstalovali jsme si "Export Paper Model" plugin
+    * `Edit->Preferences...
+    * `Get Extension`
+    * Vyhledat "paper"
+    * Kliknout na "Install"
+  * Export jako model:
+    * Kliknout na `<` v pravo nahoře, kde přibude "Paper" záložka
+    * "Unfold" - pokud selže přepnout do "Edit mode" (`tab`) a dát `Face->Triangulate faces`; v případě chyb jako `zero area` použijte v "Edit mode" `Mesh->Clean Up->Degenerate Dissolve` a opět zkusíme "Unfold", případně opakujeme
+    * Nakonec "Export Paper Model", vybereme kam a případně měřítko
+    * Výsledek [pdf](pokrocili2-1-08-blender.pdf)
+
 <img align="right" src="../media/robots_bottom.jpg">

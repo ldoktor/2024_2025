@@ -96,4 +96,16 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * Opravy chybek
   * Vylepšování hry o zvuky, animace, easter eggy...
 
+## 8. hodina (2024-11-07)
+
+<a href="pokrocili-1-08-scratch.jpg">
+    <img align="right" src="pokrocili-1-08-scratch-small.jpg" style="height:85px">
+</a>
+
+* [scratch](https://scratch.mit.edu)
+  * Opravy chybek
+  * Vylepšování hry o zvuky, animace, easter eggy...
+  * Posledních 10 minut děti prezentovali své výtvory a domluvili jsme se, že budou ještě příště dopilovávat
+  * [Ukázkový program](https://scratch.mit.edu/projects/1073204273/)
+
 <img align="right" src="../media/robots_bottom.jpg">

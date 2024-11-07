@@ -93,6 +93,13 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 * Ricochet Robots
   * Za odměnu jsme si zkusili pěknou logickou deskovku s roboty co nemají brzdy a musí se dostat na určená místa
 
+## 8. hodina (2024-11-07)
+
+* [www.code.org](https://www.code.org)
+  * Cykly/opakování na tabuli (místo `-> -> ->` mohu zapsat `3x(->)` a počítač udělá to samé)
+  * Sbíráme poklady s Laurelem - procvičování cyklů
+  * Domácí úkol - opravit pseudo-kód pro počítač pomocí cyklů [[pdf](../2022_2023/pokrocili-1-04-peceni.pdf), [odt](../2022_2023/pokrocili-1-04-peceni.odt)], případně pošlete fotky realizace (který návod vám vyhovoval nejvíce?)
+
 * * * * * * * * *
 
 <a name="footnote1">1</a>: Dle psychologa [Jeana Piageta](https://cs.wikipedia.org/wiki/Jean\_Piaget)
