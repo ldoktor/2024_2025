@@ -65,10 +65,6 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 4. hodina (2024-10-10)
 
-<a href="pokrocili-1-04-psani.jpg">
-    <img align="right" src="pokrocili-1-04-psani-small.jpg" style="height:85px">
-</a>
-
 * [scratch](https://scratch.mit.edu)
   * Naučili jsme brankáře chodit a chytnout míč
 
