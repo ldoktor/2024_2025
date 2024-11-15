@@ -108,4 +108,9 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * Posledních 10 minut děti prezentovali své výtvory a domluvili jsme se, že budou ještě příště dopilovávat
   * [Ukázkový program](https://scratch.mit.edu/projects/1073204273/)
 
+## 9. hodina (2024-11-14)
+
+* [scratch](https://scratch.mit.edu)
+  * Další vylepšování, někdo přidal chůzi, jiný skoky, další plánoval možnost hodit "vajíčko" místo míče, kterému by se brankář musel vyhnout...
+
 <img align="right" src="../media/robots_bottom.jpg">

@@ -139,4 +139,15 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
     * Nakonec "Export Paper Model", vybereme kam a případně měřítko
     * Výsledek [pdf](pokrocili2-1-08-blender.pdf)
 
+## 9. hodina (2024-11-14)
+
+* Papírový model [v Blenderu](https://blender.org)
+  * Další pokus o pistol
+  * Využili jsme `Mesh->Plain` a obkreslili jsme si základní tvar. Další části jsme přidávali buď pomocí `pravé tlačítko na hraně->Subdivide` nebo pomocí `e` (extrude) také na hraně.
+  * Následně jsme označili vše a "vytáhli do prostoru" pomocí `e` (extrude)
+  * Smazali jsme všechny plochy na vnitřní straně (označit plochy, delete, faces)
+  * Přidali jsme modifikátor (v pravo dole modrá ikonka klíče - modiffiers) zrcadlení (mirror), zvolili správnou osu a zapnuli `Clipping` (aby zůstaly kraje propojené i při posunu)
+  * Začali jsme dělat zaměřovač a další drobnosti, které nejsou přes celé. K tomu jsme používali nástroj (ikonka vlevo) loop cut, případně knife.
+  * Vše jsme uložili `ctrl+s` a doufáme, že příště doděláme.
+
 <img align="right" src="../media/robots_bottom.jpg">

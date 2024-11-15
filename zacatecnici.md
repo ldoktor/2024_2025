@@ -100,6 +100,17 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * Sbíráme poklady s Laurelem - procvičování cyklů
   * Domácí úkol - opravit pseudo-kód pro počítač pomocí cyklů [[pdf](../2022_2023/pokrocili-1-04-peceni.pdf), [odt](../2022_2023/pokrocili-1-04-peceni.odt)], případně pošlete fotky realizace (který návod vám vyhovoval nejvíce?)
 
+## 9. hodina (2024-11-14)
+
+<a href="zacatecnici-1-09-cubetto.jpg">
+    <img align="right" src="zacatecnici-1-09-cubetto-small.jpg" style="height:85px">
+</a>
+
+* Cubetto
+  * Seznámaní se s "Kubíkem"
+  * Dostaň se z místa A do místa B
+  * Dostaň se z místa A do místa B a bez změny kódu opětovným spuštěním zpět do A
+
 * * * * * * * * *
 
 <a name="footnote1">1</a>: Dle psychologa [Jeana Piageta](https://cs.wikipedia.org/wiki/Jean\_Piaget)
