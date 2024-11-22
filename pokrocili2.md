@@ -150,4 +150,9 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * Začali jsme dělat zaměřovač a další drobnosti, které nejsou přes celé. K tomu jsme používali nástroj (ikonka vlevo) loop cut, případně knife.
   * Vše jsme uložili `ctrl+s` a doufáme, že příště doděláme.
 
+## 10. hodina (2024-11-21)
+
+* Papírový model [v Blenderu](https://blender.org)
+  * Věnovali jsme se dalším modelům, už nám zbývá pouze jeden a půl...
+
 <img align="right" src="../media/robots_bottom.jpg">

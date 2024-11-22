@@ -111,6 +111,21 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * Dostaň se z místa A do místa B
   * Dostaň se z místa A do místa B a bez změny kódu opětovným spuštěním zpět do A
 
+## 10. hodina (2024-11-21)
+
+<a href="zacatecnici-1-10-dort.jpg">
+    <img align="right" src="zacatecnici-1-10-dort-small.jpg" style="height:85px">
+</a>
+<a href="zacatecnici-1-10-robots.jpg">
+    <img align="right" src="zacatecnici-1-10-robots-small.jpg" style="height:85px">
+</a>
+
+* [www.code.org](https://www.code.org)
+  * Sbíráme poklady s Laurelem - pokračování v cyklech
+  * Domácí úkol - kontrola a ukázka z přípravy
+* Ricochet Robot
+  * Pěkná deskovka na logické uvažování
+
 * * * * * * * * *
 
 <a name="footnote1">1</a>: Dle psychologa [Jeana Piageta](https://cs.wikipedia.org/wiki/Jean\_Piaget)

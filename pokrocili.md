@@ -109,4 +109,11 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 * [scratch](https://scratch.mit.edu)
   * Další vylepšování, někdo přidal chůzi, jiný skoky, další plánoval možnost hodit "vajíčko" místo míče, kterému by se brankář musel vyhnout...
 
+## 10. hodina (2024-11-21)
+
+* [scratch](https://scratch.mit.edu)
+  * Dokončení projektů [výtvor1](https://scratch.mit.edu/projects/1073203982/), [výtvor2](https://scratch.mit.edu/projects/1073204432/), [výtvor3](https://scratch.mit.edu/projects/1073204315/), [výtvor4](https://scratch.mit.edu/projects/1076320356/), [výtvor5](https://scratch.mit.edu/projects/1096509859/)
+* Psaní všemi deseti [s pomocí umimeinformatiku](https://www.umimeinformatiku.cz/psani-vsemi-deseti)
+  * ke konci opadala morálka, tak jsme ji nabudili hrou [epistory](https://www.epistorygame.com/), kterou si děti budou moci za odměnu zahrát, až budou umět psát dostatečně rychle.
+
 <img align="right" src="../media/robots_bottom.jpg">
