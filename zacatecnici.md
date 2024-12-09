@@ -98,7 +98,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 * [www.code.org](https://www.code.org)
   * Cykly/opakování na tabuli (místo `-> -> ->` mohu zapsat `3x(->)` a počítač udělá to samé)
   * Sbíráme poklady s Laurelem - procvičování cyklů
-  * Domácí úkol - opravit pseudo-kód pro počítač pomocí cyklů [[pdf](../2022_2023/pokrocili-1-04-peceni.pdf), [odt](../2022_2023/pokrocili-1-04-peceni.odt)], případně pošlete fotky realizace (který návod vám vyhovoval nejvíce?)
+  * Domácí úkol - opravit pseudo-kód pro počítač pomocí cyklů [[pdf](../2020_2021/pokrocili-1-04-peceni.pdf), [odt](../2020_2021/pokrocili-1-04-peceni.odt)], případně pošlete fotky realizace (který návod vám vyhovoval nejvíce?)
 
 ## 9. hodina (2024-11-14)
 
