@@ -126,6 +126,21 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 * Ricochet Robot
   * Pěkná deskovka na logické uvažování
 
+## 11. hodina (2024-11-28)
+
+<a href="zacatecnici-1-11-cubetto.jpg">
+    <img align="right" src="zacatecnici-1-11-cubetto-small.jpg" style="height:85px">
+</a>
+
+* Cubetto
+  * Hra "kouknu a vidím" (vágně popíši kam se chce Kubík podívat, děti se tam dostanou a vysvětlí, proč toto políčko vyhovuje zadání)
+  * Naučili jsme se "modrý" bloček - "funkci". Kubík místo něj vykoná cokoliv mu nadefinujeme ve spodní části.
+
+## 12. hodina (2024-12-05)
+
+* Mikulášská nadílka
+  * Pomocí Cubetta (sv. Mikuláš), Beebotů (andílci) a čerta (ozobot) jsme plánovali mikuklášskou nadílku. Stihli jsme vyrobit převleky a namalovat plán, příští hodinu budeme programovat.
+
 * * * * * * * * *
 
 <a name="footnote1">1</a>: Dle psychologa [Jeana Piageta](https://cs.wikipedia.org/wiki/Jean\_Piaget)

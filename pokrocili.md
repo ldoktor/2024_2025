@@ -116,4 +116,23 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 * Psaní všemi deseti [s pomocí umimeinformatiku](https://www.umimeinformatiku.cz/psani-vsemi-deseti)
   * ke konci opadala morálka, tak jsme ji nabudili hrou [epistory](https://www.epistorygame.com/), kterou si děti budou moci za odměnu zahrát, až budou umět psát dostatečně rychle.
 
+## 11. hodina (2024-11-28)
+
+<a href="pokrocili-1-11-cubetto.jpg">
+    <img align="right" src="pokrocili-1-11-cubetto-small.jpg" style="height:85px">
+</a>
+
+* [www.code.org](https://www.code.org)
+  * Zvolili jsme pokročilý kurz formou "speedrun". Nechceme 100% správnost, ale chceme se co nejrychleji dostat co nejdále.
+* Kdo měl chuť, zavzpomínal na Cubetto
+
+## 12. hodina (2024-12-05)
+
+<a href="pokrocili-1-12-mikulas.jpg">
+    <img align="right" src="pokrocili-1-12-mikulas-small.jpg" style="height:85px">
+</a>
+
+* Mikulášská nadílka
+  * Pomocí Cubetta (sv. Mikuláš), Beebotů (andílci) a čerta (ozobot) jsme plánovali mikuklášskou nadílku. Použili jsme převleky od začátečníků, namalovali jsme si plán a zjistit, že je Cubetto pomalý a andílci budou muset na Mikuláše čekat.
+
 <img align="right" src="../media/robots_bottom.jpg">

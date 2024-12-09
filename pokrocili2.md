@@ -155,4 +155,39 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 * Papírový model [v Blenderu](https://blender.org)
   * Věnovali jsme se dalším modelům, už nám zbývá pouze jeden a půl...
 
+## 11. hodina (2024-11-28)
+
+* Papírový model [v Blenderu](https://blender.org)
+  * Dodělali jsme pistoli a auto, čímž uzavíráme kapitolu Blender. Pár rad na doma:
+  * Na [youtube](https://www.youtube.com/results?search_query=blender+tutorial) najdete spoustu návodů, většinou s možností zapnout titulky a automatickým překladem.
+  * Zpravidla je postup:
+    * Změním pohled na boční/horní (`3` nebo `7`)
+    * Přidám referenční obrázek (`shift+a`, `image->reference`)
+    * Přidám Plain (`shift+a`, `mesh->plain`)
+    * V edit módu sloučím včechny body meshe do jednoho (`tab`, `a`, `pravé tlačítko`, `merge vertices->At center`), čímž získám původní bod
+    * Co nejmenším počtem bodů "obkreslím" obrys objektu (`e`), případně upravím umístění pomocí `g` (grab - uchopit)
+    * Označím vše (`a`) a "vytlačím" obrys do prostoru (`e`)
+    * Následně kombinuji posun (`e`), otáčení (`r`), zvětšení (`s`) na bodech/úsečkách/plochách, vytlačování (`e`) a v neposlední řadě ještě nůž `k` a řezání `ctrl+r`.
+  * Pro symetrické prvky využívám "modifikátor" (na pravé straně v dolní části symbol klíče) `mirror`
+  * Často měňte pohledy (nebo využijte velký display a rozdělte si plochu na několik pohledů současně)
+
+## 12. hodina (2024-12-05)
+
+<a href="pokrocili2-1-12-mikulas.jpg">
+    <img align="right" src="pokrocili2-1-12-mikulas-small.jpg" style="height:85px">
+</a>
+
+* Předání modelů a diskuze na téma 3d tisk [banán](pokrocili2-1-12-banan.pdf), [auto](pokrocili2-1-12-auto.pdf), [pistole1](pokrocili2-1-12-pistole1.pdf), [pistole2](pokrocili2-1-12-pistole2.pdf), [charmander](pokrocili2-1-12-charmander.pdf)[+barevně označené části](pokrocili2-1-12-charmander-casti.pdf)
+* Rychlokurz lepení papírových modelů
+  * Opatrně obstříhnu okolo
+  * Ze zadní strany tuškou zapíšu informace o čísle dílu (island - ostrov)
+  * Ze zadní strany tuškou přepíšu informaci která ploška se kam bude lepit
+  * Lehce obtáhnu čárkované a čerchované čáry nůžkami/kružítkem podle pravítka!
+  * Díl si lehce předohýbám, v místě čárkované čáry dovnitř, v místě čerchované čáry směrem ven
+  * Najdu plošku s označením vystřiženého dílu (`I1:2` znamená přilep tuto plošku k dílu číslo 1 na místo označené číslem 2), opakuji předešlé body pro tento díl
+  * Slepím díly dohromady
+  * Opakuji dokud není celý model kompletní. Zpravidla doporučuji začít velkým výzanmýn dílem a pokračovat k menším, ale je to o citu. Případně můžete zkusit jako rozcvičku "miniboxy" z časopisu ABC
+* Mikulášská nadílka
+  * Pomocí Cubetta (sv. Mikuláš), Beebotů (andílci) a čerta (ozobot) jsme plánovali mikuklášskou nadílku. Použili jsme převleky od začátečníků, plán od pokročilých a zjistili jsme, že Cubetto je pomalejší než Beebot a tak budou muset andílci na Mikuláše čekat.
+
 <img align="right" src="../media/robots_bottom.jpg">
