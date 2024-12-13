@@ -135,4 +135,13 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 * Mikulášská nadílka
   * Pomocí Cubetta (sv. Mikuláš), Beebotů (andílci) a čerta (ozobot) jsme plánovali mikuklášskou nadílku. Použili jsme převleky od začátečníků, namalovali jsme si plán a zjistit, že je Cubetto pomalý a andílci budou muset na Mikuláše čekat.
 
+## 13. hodina (2024-12-12)
+
+<a href="pokrocili-1-13-mikulas.jpg">
+    <img align="right" src="pokrocili-1-13-mikulas-small.jpg" style="height:85px">
+</a>
+
+* Mikulášská nadílka
+  * Naprogramovali jsme 2 andílky (Beeboti) a sv. Mikuláše (Cubetto) aby odešel z nebe na náměstí a následně do kostela bez toho aby se srazily s čertem. Nejtěžší bylo zajistit aby natěšení andělíčkové nedobíhali pomalého Mikuláše, ale nakonec se nám to podařilo.
+
 <img align="right" src="../media/robots_bottom.jpg">

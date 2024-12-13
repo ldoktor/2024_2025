@@ -190,4 +190,18 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 * Mikulášská nadílka
   * Pomocí Cubetta (sv. Mikuláš), Beebotů (andílci) a čerta (ozobot) jsme plánovali mikuklášskou nadílku. Použili jsme převleky od začátečníků, plán od pokročilých a zjistili jsme, že Cubetto je pomalejší než Beebot a tak budou muset andílci na Mikuláše čekat.
 
+## 13. hodina (2024-12-12)
+
+<a href="pokrocili2-1-13-microbit.jpg">
+    <img align="right" src="pokrocili2-1-13-microbit-small.jpg" style="height:85px">
+</a>
+<a href="pokrocili2-1-13-modely.jpg">
+    <img align="right" src="pokrocili2-1-13-modely-small.jpg" style="height:85px">
+</a>
+
+* Papírový model
+  * Někteří mě příjemně překvapily a donesli slepené modely, viz. fotky
+* [Micro:bit](../assets/microbit)
+  * Připomněli jsme si prostředí [makecode](https://makecode.microbit.org/) a vyzkoušeli jsme si pár základních prográmků
+
 <img align="right" src="../media/robots_bottom.jpg">

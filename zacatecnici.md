@@ -141,6 +141,15 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 * Mikulášská nadílka
   * Pomocí Cubetta (sv. Mikuláš), Beebotů (andílci) a čerta (ozobot) jsme plánovali mikuklášskou nadílku. Stihli jsme vyrobit převleky a namalovat plán, příští hodinu budeme programovat.
 
+## 13. hodina (2024-12-12)
+
+<a href="zacatecnici-1-13-mikulas.jpg">
+    <img align="right" src="zacatecnici-1-13-mikulas-small.jpg" style="height:85px">
+</a>
+
+* Mikulášská nadílka
+  * Naprogramovali jsme 2 andílky (Beeboti) a sv. Mikuláše (Cubetto) aby odešel z nebe na náměstí a následně do kostela bez toho aby se srazily s čertem. Nejtěžší bylo zajistit aby natěšení andělíčkové nedobíhali pomalého Mikuláše, ale nakonec se nám to podařilo.
+
 * * * * * * * * *
 
 <a name="footnote1">1</a>: Dle psychologa [Jeana Piageta](https://cs.wikipedia.org/wiki/Jean\_Piaget)
