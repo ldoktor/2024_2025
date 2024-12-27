@@ -144,4 +144,13 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 * Mikulášská nadílka
   * Naprogramovali jsme 2 andílky (Beeboti) a sv. Mikuláše (Cubetto) aby odešel z nebe na náměstí a následně do kostela bez toho aby se srazily s čertem. Nejtěžší bylo zajistit aby natěšení andělíčkové nedobíhali pomalého Mikuláše, ale nakonec se nám to podařilo.
 
+## 14. hodina (2024-12-19)
+
+<a href="pokrocili-1-14-pc.jpg">
+    <img align="right" src="pokrocili-1-14-pc-small.jpg" style="height:85px">
+</a>
+
+* Rozmontování, složení a spuštění počítače, popis komponent a jejich funkcí.
+
+
 <img align="right" src="../media/robots_bottom.jpg">

@@ -204,4 +204,12 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 * [Micro:bit](../assets/microbit)
   * Připomněli jsme si prostředí [makecode](https://makecode.microbit.org/) a vyzkoušeli jsme si pár základních prográmků
 
+## 14. hodina (2024-12-19)
+
+<a href="pokrocili2-1-14-pc.jpg">
+    <img align="right" src="pokrocili2-1-14-pc-small.jpg" style="height:85px">
+</a>
+
+* Rozmontování, složení a spuštění počítače, popis komponent a jejich funkcí.
+
 <img align="right" src="../media/robots_bottom.jpg">
