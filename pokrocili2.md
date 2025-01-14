@@ -212,4 +212,13 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 * Rozmontování, složení a spuštění počítače, popis komponent a jejich funkcí.
 
+## 15. hodina (2025-01-09)
+
+<a href="pokrocili2-1-15-microbit.jpg">
+    <img align="right" src="pokrocili2-1-15-microbit-small.jpg" style="height:85px">
+</a>
+
+* [Micro:bit](../assets/microbit)
+  * Seznámení s ``Wonder Building Kitem``
+
 <img align="right" src="../media/robots_bottom.jpg">

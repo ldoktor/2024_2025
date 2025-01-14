@@ -152,5 +152,15 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 * Rozmontování, složení a spuštění počítače, popis komponent a jejich funkcí.
 
+## 15. hodina (2025-01-09)
+
+* Papírový model [v Blenderu](https://blender.org)
+  * Seznámení s 3D animačním softwarem Blender
+  * Pohled:
+    * Otáčení scény - `prostřední tlačítko` (kolečko)
+    * Zoom scény - `kolečko myši`
+    * Posunutí scény - `shift+prostřední tlačítko`
+  * Přidání objektu
+    * `shift+A` nebo nahoře menu `Add` (zpravidla chceme objekty typu `Mesh`)
 
 <img align="right" src="../media/robots_bottom.jpg">

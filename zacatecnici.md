@@ -158,6 +158,21 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 * Rozmontování, složení a spuštění počítače, popis komponent a jejich funkcí. Test ochrany proti přehřátí (thermal throttling) pomocí upravené hry housenka a odstranění chladiče.
 
+## 15. hodina (2025-01-09)
+
+<a href="zacatecnici-1-15-tesla.jpg">
+    <img align="right" src="zacatecnici-1-15-tesla-small.jpg" style="height:85px">
+</a>
+
+* [www.code.org](https://www.code.org)
+  * Pokračování v cyklech
+* Lehký úvod do elektroniky
+  * <a href="https://cs.wikipedia.org/wiki/Tesl%C5%AFv_transform%C3%A1tor">Teslův transformátor</a>
+    * malinký transformátor z Aliexpresu
+    * vytahování oblouku pomocí klíčů
+    * přehrávání hudby pomocí jiskření (se nám nepovedlo)
+    * bezdrátové rozsvěcení úsporných žárovek, diod a tlumivek
+
 * * * * * * * * *
 
 <a name="footnote1">1</a>: Dle psychologa [Jeana Piageta](https://cs.wikipedia.org/wiki/Jean\_Piaget)
