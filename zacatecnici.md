@@ -173,6 +173,16 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
     * přehrávání hudby pomocí jiskření (se nám nepovedlo)
     * bezdrátové rozsvěcení úsporných žárovek, diod a tlumivek
 
+## 16. hodina (2025-01-16)
+
+<a href="zacatecnici-1-16-boffin.jpg">
+    <img align="right" src="zacatecnici-1-16-boffin-small.jpg" style="height:85px">
+</a>
+
+* Elektrická stavebnice Boffin
+  * S pomocí [videa](https://www.youtube.com/watch?v=3KePcASD0NQ) jsme si řekli něco málo o elektřině
+  * Následně jsme vyzkoušeli několik zapojení stavebnice Boffin
+
 * * * * * * * * *
 
 <a name="footnote1">1</a>: Dle psychologa [Jeana Piageta](https://cs.wikipedia.org/wiki/Jean\_Piaget)

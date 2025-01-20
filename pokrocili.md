@@ -163,4 +163,17 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * Přidání objektu
     * `shift+A` nebo nahoře menu `Add` (zpravidla chceme objekty typu `Mesh`)
 
+## 16. hodina (2025-01-16)
+
+<a href="pokrocili-1-16-blender.jpg">
+    <img align="right" src="pokrocili-1-16-blender-small.jpg" style="height:85px">
+</a>
+
+* Papírový model [v Blenderu](https://blender.org)
+  * Opakování pohybu scény
+  * Otočení - `r` (rotate), následně `x, y, z` pro otočení podle jedné osy (případně prostřední tlačítko myši)
+  * Zvětšení - `s` (scale), následně `x, y, z` pro otočení podle jedné osy (případně prostřední tlačítko myši)
+  * Pojmenované pohledy lze přepínat na numerické klávesnici (`1, 3, 7, 0`, případně otočení `2,4,6,8`)
+  * Další soutěž s opičkou s natočeným kloboučkem o hodnotné ceny
+
 <img align="right" src="../media/robots_bottom.jpg">
