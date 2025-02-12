@@ -226,4 +226,9 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 * [Micro:bit](../assets/microbit)
   * Stavba ``Wonder Building Kit`` projektů
 
+## 17. hodina (2025-02-06)
+
+* [Micro:bit](../assets/microbit)
+  * Stavba ``Wonder Building Kit`` projektů
+
 <img align="right" src="../media/robots_bottom.jpg">

@@ -185,6 +185,13 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 * * * * * * * * *
 
+## 17. hodina (2025-02-06)
+
+* Elektrická stavebnice Boffin
+  * Stavění různých obvodů
+
+* * * * * * * * *
+
 <a name="footnote1">1</a>: Dle psychologa [Jeana Piageta](https://cs.wikipedia.org/wiki/Jean\_Piaget)
 nelze děti mladší 6-7 let učit systematické vědy, neboť se nacházejí
 ve stádiu `názorového (prelogického) myšlení`, které ještě plně
