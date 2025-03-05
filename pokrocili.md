@@ -187,4 +187,37 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
     * Edit mode (editační mód) - úprava jednotlivých objektů
   * V `edit mode` jsme si vyzkoušeli označení `bodu`, `hrany` a `plochy`, jejich posunutí, rotaci a velikost. Nakonec jsme si ukázali, že můžeme plochu "vytlačit do prostoru pomocí "extrude" `e` a tím rozšířit náš objekt.
 
+## 18. hodina (2025-02-13)
+
+<a href="pokrocili-2-02-blender.jpg">
+    <img align="right" src="pokrocili-2-02-blender-small.jpg" style="height:85px">
+</a>
+
+* Papírový model [v Blenderu](https://blender.org)
+  * Opakování (`shift-a,g,r,s,+x,+y,+z,tab,1,2,3,...`)
+  * Společná tvorba banánu
+    * Boční pohled `num1`
+    * Přidáme si referenční obrázek (`shift+a->image->reference...`)
+    * Přidáme si "profil" banánu `shift+a->mesh->cylinder` a ihned klikneme v pravo dole na nové tlačítko `> add cylinder` a upravíme `verteces` na 5 či 7, případně i velikost a výšku
+    * otočíme a posuneme na střed banánu
+    * přepneme do edit modu `tab`
+    * otočíme si pohled a vybereme podstavu (mód výběru `face` tlačítkem `3`)
+    * vrátíme se zpět do bořního pohledu `num1`
+    * pomocí `e` (extrude), `r` (rotate), `s` (scale) a `g` (grab) postupně "obkreslíme" referenční obrázek
+
+## 19. hodina (2025-02-20)
+
+* Papírový model [v Blenderu](https://blender.org)
+  * Individuální tvorba modelů - [Banán](pokrocili-2-03-banan.blend) ([tisk](pokrocili-2-03-banan.pdf))
+  * Ostatní psaní všemi deseti, hledání referenčních obrázků a vlastní tvorba
+
+## 20. hodina (2025-02-27)
+
+* Algoritmy
+  * [Pěkné video vysvětlující co to jsou algoritmy](https://www.youtube.com/watch?v=HsO2reAF0IA)
+  * Seřazení žáků dle výšky bez poheldu na celé pole (žák stojí zády a ptá se na 2 pozice, dozví se pouze který z žáků na těchto pozicích je větší)
+  * Předvedení základních třídících algoritmů a jejich diagramů [pdf](../2022_2023/sort.pdf), [odg](../2022_2023/sort.odg)
+  * Krátká ukázka rozdílu mezi algoritmem, programem a strojovým kódem [pdf](../2022_2023/gcd-disassembly.pdf), [odt](../2022_2023/gcd-disassembly.odt)
+  * Do budoucna doporučuji schovat si odkaz na pěknou literaturu [zde](https://knihy.nic.cz/files/edice/pruvodce_labyrintem_algoritmu.pdf)
+
 <img align="right" src="../media/robots_bottom.jpg">

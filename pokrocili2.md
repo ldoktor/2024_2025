@@ -231,4 +231,32 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 * [Micro:bit](../assets/microbit)
   * Stavba ``Wonder Building Kit`` projektů
 
+## 18. hodina (2025-02-13)
+
+* [Micro:bit](../assets/microbit)
+  * Dokončování ``Wonder Building Kit`` projektů
+  * Ukázka zapojení fotorezistoru, vysvětlení jak se rozdělí napětí mezi pull-up rezistor a fotorezistor, jak se výstup změní při osvětlení fotorezistoru a co naměříme na microbitu.
+
+## 19. hodina (2025-02-20)
+
+<a href="pokrocili2-2-03-moto.jpg">
+    <img align="right" src="pokrocili2-2-03-moto-small.jpg" style="height:85px">
+</a>
+
+* [Micro:bit](../assets/microbit)
+  * Motorka na dálkové ovládání pomocí microbit + ``Wonder Building Kit``, vlastní model od Kuby a odladění dálkového ovládání (ostatní byli nemocní/chyběli)
+
+## 20. hodina (2025-02-27)
+
+<a href="pokrocili2-2-04-algoritmy.jpg">
+    <img align="right" src="pokrocili2-2-04-algoritmy-small.jpg" style="height:85px">
+</a>
+
+* Algoritmy
+  * [Pěkné video vysvětlující co to jsou algoritmy](https://www.youtube.com/watch?v=HsO2reAF0IA)
+  * Seřazení žáků dle výšky bez poheldu na celé pole (žák stojí zády a ptá se na 2 pozice, dozví se pouze který z žáků na těchto pozicích je větší)
+  * Předvedení základních třídících algoritmů a jejich diagramů [pdf](../2022_2023/sort.pdf), [odg](../2022_2023/sort.odg)
+  * Krátká ukázka rozdílu mezi algoritmem, programem a strojovým kódem [pdf](../2022_2023/gcd-disassembly.pdf), [odt](../2022_2023/gcd-disassembly.odt)
+  * Do budoucna doporučuji schovat si odkaz na pěknou literaturu [zde](https://knihy.nic.cz/files/edice/pruvodce_labyrintem_algoritmu.pdf)
+
 <img align="right" src="../media/robots_bottom.jpg">

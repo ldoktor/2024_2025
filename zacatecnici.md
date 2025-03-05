@@ -190,6 +190,34 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 * Elektrická stavebnice Boffin
   * Stavění různých obvodů
 
+## 18. hodina (2025-02-13)
+
+<a href="zacatecnici-2-02-boffin.jpg">
+    <img align="right" src="zacatecnici-2-02-boffin-small.jpg" style="height:85px">
+</a>
+
+* Elektrická stavebnice Boffin
+  * Co to je [napětí](https://www.youtube.com/watch?v=w82aSjLuD_8&list=PLWv9VM947MKi_7yJ0_FCfzTBXpQU-Qd3K&index=4)?
+  * Seznámení s multimetrem/voltmetrem, seřazení baterií dle napětí a něco málo o kapacitě baterie
+  * Stavění různých obvodů a měření napětí mezi různými body
+
+## 19. hodina (2025-02-20)
+
+* Elektrická stavebnice Boffin
+  * Boffin - hry
+
+## 20. hodina (2025-02-27)
+
+<a href="zacatecnici-2-04-boffin.jpg">
+    <img align="right" src="zacatecnici-2-04-boffin-small.jpg" style="height:85px">
+</a>
+
+* Elektrická stavebnice Boffin
+  * Co to je [napětí](https://www.youtube.com/watch?v=w82aSjLuD_8&list=PLWv9VM947MKi_7yJ0_FCfzTBXpQU-Qd3K&index=4) (opáčko pro ty co chyběli)?
+  * Seznámení s multimetrem/voltmetrem, seřazení baterií dle napětí a něco málo o kapacitě baterie (ti co chyběli)
+  * Stavění různých obvodů a měření napětí mezi různými body
+  * Boffin - hry
+
 * * * * * * * * *
 
 <a name="footnote1">1</a>: Dle psychologa [Jeana Piageta](https://cs.wikipedia.org/wiki/Jean\_Piaget)
