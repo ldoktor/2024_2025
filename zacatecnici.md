@@ -218,6 +218,22 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * Stavění různých obvodů a měření napětí mezi různými body
   * Boffin - hry
 
+## 21. hodina (2025-03-13)
+
+<a href="zacatecnici-2-05-ai.jpg">
+    <img align="right" src="zacatecnici-2-05-ai-small.jpg" style="height:85px">
+</a>
+<a href="zacatecnici-2-05-ai2.jpg">
+    <img align="right" src="zacatecnici-2-05-ai2-small.jpg" style="height:85px">
+</a>
+<a href="zacatecnici-2-05-code.org.jpg">
+    <img align="right" src="zacatecnici-2-05-code.org-small.jpg" style="height:85px">
+</a>
+
+* [zonerai - generátor obrázků](https://zonerai.com) - vyzkoušeli jsme si generovat různé zábavné obrázky pomocí umělé inteligence (a procvičili jsme si psaní na klávesnici)
+* [www.code.org](https://www.code.org)
+  * Všichni se již dostali k umělcovi
+
 * * * * * * * * *
 
 <a name="footnote1">1</a>: Dle psychologa [Jeana Piageta](https://cs.wikipedia.org/wiki/Jean\_Piaget)

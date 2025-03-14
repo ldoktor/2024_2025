@@ -259,4 +259,15 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * Krátká ukázka rozdílu mezi algoritmem, programem a strojovým kódem [pdf](../2022_2023/gcd-disassembly.pdf), [odt](../2022_2023/gcd-disassembly.odt)
   * Do budoucna doporučuji schovat si odkaz na pěknou literaturu [zde](https://knihy.nic.cz/files/edice/pruvodce_labyrintem_algoritmu.pdf)
 
+## 21. hodina (2025-03-13)
+
+<a href="pokrocili2-2-05-ai.jpg">
+    <img align="right" src="pokrocili2-2-05-ai-small.jpg" style="height:85px">
+</a>
+
+* [Micro:bit](../assets/microbit)
+  * Zapojení fotorezistoru na breadboardu
+* [zonerai - generátor obrázků](https://zonerai.com) - vyzkoušeli jsme si generovat různé zábavné obrázky pomocí umělé inteligence (a procvičili jsme si psaní
+na klávesnici)
+
 <img align="right" src="../media/robots_bottom.jpg">

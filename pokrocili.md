@@ -220,4 +220,28 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * Krátká ukázka rozdílu mezi algoritmem, programem a strojovým kódem [pdf](../2022_2023/gcd-disassembly.pdf), [odt](../2022_2023/gcd-disassembly.odt)
   * Do budoucna doporučuji schovat si odkaz na pěknou literaturu [zde](https://knihy.nic.cz/files/edice/pruvodce_labyrintem_algoritmu.pdf)
 
+## 21. hodina (2025-03-13)
+
+<a href="pokrocili-2-05-ai.jpg">
+    <img align="right" src="pokrocili-2-05-ai-small.jpg" style="height:85px">
+</a>
+
+* Papírový model [v Blenderu](https://blender.org)
+  * Společná tvorba auta
+    * Boční pohled `num1`
+    * Přidáme si referenční obrázek (`shift+a->image->reference...`)
+    * Označíme si krychly (pokud jsme ji smazali, tak ji přidáme pomocí `shift+a->mesh->cube`)
+    * Přepneme do edit modu `tab`
+    * Sloučíme všechny body pomocí `Pravé tlačítko->merge verteces->at center` (pokud jsme si odznačili, označíme pomocí `A`, případně přepneme mód výběru na body `1`)
+    * `g` přesuneme bod na vhodné místo
+    * Pomocí `e` přidáváme další body (staré můžeme dále přesouvat pomocí `g`, vždy vyberte pouze jeden bod)
+    * Poslední bod musíme sloučit, uděláme to opět tak, že vybereme 2 body (přes shift, nebo tažením) a dáme `Pravé tlačítko->merge verteces->at center` (případně `At first` či `At last`)
+    * Označíme všechny body a vytlačíme pomocí `e`, případně označíme pouze jednu osu (`x`, `y`, `z`)
+    * Můžeme opakovat vícekrát dle potřeby, případně zvětšit, zmenšit, posunout
+    * Poslední vrstvu chceme překrýt plochou, uděláme to pomocí klávesy `f`
+    * Můžeme využít `mirror` (zrcadlový) modifikátor, abychom snadno vytvořili symetrický model (např. podle osy `y`)
+    * Můžeme přidat detaily pomocí označení plochy a `e`, případně `i`, případně přidat další hrany pomocí `k` knife (nože)
+* [zonerai - generátor obrázků](https://zonerai.com) - vyzkoušeli jsme si generovat různé zábavné obrázky pomocí umělé inteligence (a procvičili jsme si psaní
+na klávesnici)
+
 <img align="right" src="../media/robots_bottom.jpg">
