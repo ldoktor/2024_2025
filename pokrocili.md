@@ -244,4 +244,22 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 * [zonerai - generátor obrázků](https://zonerai.com) - vyzkoušeli jsme si generovat různé zábavné obrázky pomocí umělé inteligence (a procvičili jsme si psaní
 na klávesnici)
 
+## 22. hodina (2025-03-20)
+
+<a href="pokrocili-2-06-blender.jpg">
+    <img align="right" src="pokrocili-2-06-blender-small.jpg" style="height:85px">
+</a>
+
+* Papírový model [v Blenderu](https://blender.org)
+  * Individuální tvorba modelů - [pistole](pokrocili-2-06-pistole.blend) ([tisk](pokrocili-2-06-pistole.pdf))
+
+## 23. hodina (2025-03-27)
+
+<a href="pokrocili-2-07-blender.jpg">
+    <img align="right" src="pokrocili-2-07-blender-small.jpg" style="height:85px">
+</a>
+
+* Papírový model [v Blenderu](https://blender.org)
+  * Individuální tvorba modelů - [ptacek](pokrocili-2-07-ptacek.blend) ([tisk](pokrocili-2-07-ptacek.pdf))
+
 <img align="right" src="../media/robots_bottom.jpg">
