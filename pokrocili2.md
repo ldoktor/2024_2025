@@ -270,4 +270,32 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 * [zonerai - generátor obrázků](https://zonerai.com) - vyzkoušeli jsme si generovat různé zábavné obrázky pomocí umělé inteligence (a procvičili jsme si psaní
 na klávesnici)
 
+## 22. hodina (2025-03-20)
+
+<a href="pokrocili2-2-06-microbit.jpg">
+    <img align="right" src="pokrocili2-2-06-microbit-small.jpg" style="height:85px">
+</a>
+
+* [Micro:bit](../assets/microbit)
+  * Tvorba programu pro detekci světla a opakování zapojení fotorezistoru
+
+## 23. hodina (2025-03-27)
+
+<a href="pokrocili2-2-07-microbit.jpg">
+    <img align="right" src="pokrocili2-2-07-microbit-small.jpg" style="height:85px">
+</a>
+
+* [Micro:bit](../assets/microbit)
+  * Test terče a tvorba platformy s pohyblivým uchycením terče
+
+## 24. hodina (2025-04-03)
+
+* [Micro:bit](../assets/microbit)
+  * Finální montáž nabarvených terčů, návrh hry a protokolu mezi.
+  * Hra bude náhodně vyklápět jednotlivé terče a měřit, za jak dlouho je stihneme trefit. Skončí po 10 trefených terčích a vypíše celkový čas.
+  * Protokol je:
+    * vyklop (server->terč)
+    * trefa (terč->server)
+    * reset (server->terč)
+
 <img align="right" src="../media/robots_bottom.jpg">

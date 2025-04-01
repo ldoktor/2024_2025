@@ -234,6 +234,37 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 * [www.code.org](https://www.code.org)
   * Všichni se již dostali k umělcovi
 
+## 22. hodina (2025-03-20)
+
+<a href="zacatecnici-2-06-code-org.jpg">
+    <img align="right" src="zacatecnici-2-06-code-org-small.jpg" style="height:85px">
+</a>
+
+* [www.code.org](https://www.code.org)
+  * Pokračování s umělcem
+
+## 23. hodina (2025-03-27)
+
+<a href="zacatecnici-2-07-krita.jpg">
+    <img align="right" src="zacatecnici-2-07-krita-small.jpg" style="height:85px">
+</a>
+
+* [www.code.org](https://www.code.org)
+  * Pokračování s umělcem a BB-8
+* Grafický tablet
+  * Ukázka ovládání počítače pomocí grafického tabletu Wacom s podporou tlaku, malování v programu [Krita](https://krita.org) (postupně se vystřídají všichni)
+
+## 24. hodina (2025-04-03)
+
+<a href="zacatecnici-2-08-krita.jpg">
+    <img align="right" src="zacatecnici-2-08-krita-small.jpg" style="height:85px">
+</a>
+
+* [www.code.org](https://www.code.org)
+  * Pokračování s umělcem a BB-8
+* Grafický tablet
+  * Ukázka ovládání počítače pomocí grafického tabletu Wacom s podporou tlaku, malování v programu [Krita](https://krita.org) (postupně se vystřídají všichni)
+
 * * * * * * * * *
 
 <a name="footnote1">1</a>: Dle psychologa [Jeana Piageta](https://cs.wikipedia.org/wiki/Jean\_Piaget)
