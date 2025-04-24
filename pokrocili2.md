@@ -298,4 +298,15 @@ na klávesnici)
     * trefa (terč->server)
     * reset (server->terč)
 
+## 25. hodina (2025-04-10)
+
+<a href="pokrocili2-2-09-microbit.jpg">
+    <img align="right" src="pokrocili2-2-09-microbit-small.jpg" style="height:85px">
+</a>
+
+* [Micro:bit](../assets/microbit)
+  * Návrh protokolu mezi serverem a terči
+  * Ladění nových terčů (stříbrná barva místo alobalu)
+  * Oprava kódu z minule
+
 <img align="right" src="../media/robots_bottom.jpg">

@@ -273,4 +273,14 @@ na klávesnici)
   * Před vystřižením přepíšeme čísílka dovnitř modelu, následně vystřihnu velký díl, jemně přejedu podle pravítka nůžkami/kružítkem každý přehyb a předohýbám. Následně shodně zpracuji další ostrov (island) který se připojí k tomuto modelu (např. I2:6 znamená, že se k tomuto dílu připojí strana 6 z ostrovu Island 2) a slepím. Postupuji, dokud není model kompletní.
   * Čerchovaná čára (`- * - * -`) == ohýbání jedním směrem, čárkovaná čára (`- - - - -`) == ohýbání druhým směrem. Ideální je lepit "inverzně", tj. vnější/bílou stranou ven. Vyžaduje to ovšem pečlivé namazání lepených plošek, které z této strany nejsou naznačeny.
 
+## 25. hodina (2025-04-10)
+
+<a href="pokrocili-2-09-modely.jpg">
+    <img align="right" src="pokrocili-2-09-modely-small.jpg" style="height:85px">
+</a>
+
+* Papírový model [v Blenderu](https://blender.org)
+  * Dopomoc s lepením
+  * Kdo měl hotovo, mohl si za odměnu zkusit nějakou z her (OpenTTD, LFS demo na myši, Epistory, shapez, minetest, HRM)
+
 <img align="right" src="../media/robots_bottom.jpg">
