@@ -283,4 +283,12 @@ na klávesnici)
   * Dopomoc s lepením
   * Kdo měl hotovo, mohl si za odměnu zkusit nějakou z her (OpenTTD, LFS demo na myši, Epistory, shapez, minetest, HRM)
 
+## 26. hodina (2025-04-24)
+
+<a href="pokrocili-2-10-code-org.jpg">
+    <img align="right" src="pokrocili-2-10-code-org-small.jpg" style="height:85px">
+</a>
+
+* Opakovali jsme cykly (z loňského roku) s BB-8 v [code.org](https://www.code.org)
+
 <img align="right" src="../media/robots_bottom.jpg">

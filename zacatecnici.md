@@ -285,6 +285,23 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 * Grafický tablet
   * Ukázka ovládání počítače pomocí grafického tabletu Wacom s podporou tlaku, malování v programu [Krita](https://krita.org) (postupně se vystřídají všichni)
 
+## 26. hodina (2025-04-24)
+
+<a href="zacatecnici-2-10-kosticky2.jpg">
+    <img align="right" src="zacatecnici-2-10-kosticky2-small.jpg" style="height:85px">
+</a>
+<a href="zacatecnici-2-10-kosticky.jpg">
+    <img align="right" src="zacatecnici-2-10-kosticky-small.jpg" style="height:85px">
+</a>
+
+* Úlohy s kostičkami
+  * Půdorys s tečkami
+  * Půdorys s čísly
+  * Nárys, půdorys, bokorys
+  * Zakresli co vidíš
+* Ke konci jsme si za odměnu vyzkoušeli [3D tetris](https://archive.org/details/msdos_Blockout_1989)
+  * Některé děti neznají tetris, takže to příště napravíme
+
 * * * * * * * * *
 
 <a name="footnote1">1</a>: Dle psychologa [Jeana Piageta](https://cs.wikipedia.org/wiki/Jean\_Piaget)

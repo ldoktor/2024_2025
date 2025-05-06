@@ -309,4 +309,18 @@ na klávesnici)
   * Ladění nových terčů (stříbrná barva místo alobalu)
   * Oprava kódu z minule
 
+## 26. hodina (2025-04-24)
+
+<a href="pokrocili2-2-10-microbit2.jpg">
+    <img align="right" src="pokrocili2-2-10-microbit2-small.jpg" style="height:85px">
+</a>
+<a href="pokrocili2-2-10-microbit.jpg">
+    <img align="right" src="pokrocili2-2-10-microbit-small.jpg" style="height:85px">
+</a>
+
+* Zapojení laserů v modelu
+  * Bojovali jsme s propojením drátků (pájení by bylo lepší, ale hůře rozebíratelné)
+  * Někdy jsme museli destruktivně vyjmout vypínače, abychom zapojili a izolepou zajistili drátky
+  * Využíváme 2x2xAAA nabíjecí baterie = 2x2x1.2V = 4.8V (laser snese 5V) a 470pF kondenzátory
+
 <img align="right" src="../media/robots_bottom.jpg">
