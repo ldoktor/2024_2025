@@ -326,4 +326,16 @@ na klávesnici)
   * Někdy jsme museli destruktivně vyjmout vypínače, abychom zapojili a izolepou zajistili drátky
   * Využíváme 2x2xAAA nabíjecí baterie = 2x2x1.2V = 4.8V (laser snese 5V) a 470pF kondenzátory [zapojení](pokrocili2-2-10-laser.fzz) [schéma](pokrocili2-2-10-laser_schem.svg)
 
+## 27. hodina (2025-05-15)
+
+<a href="pokrocili2-2-11-microbit.jpg">
+    <img align="right" src="pokrocili2-2-11-microbit-small.jpg" style="height:85px">
+</a>
+
+* [Micro:bit](../assets/microbit)
+  * Implementace terče
+  * Drobné problémy s hladinou osvětlení (potřebujeme více zatemnit)
+* Dodělání laserů do modelu
+  * Izolepa není dostačující, modely fungují ale při použití často selhávají. Příště donesu spájenou pevnou verzi, abychom si mohli spolehlivě zahrát.
+
 <img align="right" src="../media/robots_bottom.jpg">

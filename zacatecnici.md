@@ -149,6 +149,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 * Mikulášská nadílka
   * Naprogramovali jsme 2 andílky (Beeboti) a sv. Mikuláše (Cubetto) aby odešel z nebe na náměstí a následně do kostela bez toho aby se srazily s čertem. Nejtěžší bylo zajistit aby natěšení andělíčkové nedobíhali pomalého Mikuláše, ale nakonec se nám to podařilo.
+  * [Video](https://www.youtube.com/watch?v=OYCpFLq0GHs)
 
 ## 14. hodina (2024-12-19)
 
@@ -301,6 +302,15 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * Zakresli co vidíš
 * Ke konci jsme si za odměnu vyzkoušeli [3D tetris](https://archive.org/details/msdos_Blockout_1989)
   * Některé děti neznají tetris, takže to příště napravíme
+
+## 27. hodina (2025-05-15)
+
+* Tetris
+  * Minulou hodinu jsme zjistili, že velká část dětí nezná tetris, proto jsme nejprve vyzkoušeli [základní hru](https://archive.org/details/msdos_Tetris_1986)
+  * Následně jsme se pokusili o [3D tetris](https://archive.org/details/msdos_Blockout_1989) - pokud byste zkoušeli doma, doporučuji nastavení objekty "FLAT" a co nejdelší hloubku (4x4x18), otáčení `a, s, d`, posun `sipky` a položení `mezerník`.
+* Úlohy s kostičkami
+  * Opakování
+  * Malba falešného 3d
 
 * * * * * * * * *
 

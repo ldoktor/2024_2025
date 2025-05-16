@@ -143,6 +143,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 * Mikulášská nadílka
   * Naprogramovali jsme 2 andílky (Beeboti) a sv. Mikuláše (Cubetto) aby odešel z nebe na náměstí a následně do kostela bez toho aby se srazily s čertem. Nejtěžší bylo zajistit aby natěšení andělíčkové nedobíhali pomalého Mikuláše, ale nakonec se nám to podařilo.
+  * [Video](https://www.youtube.com/watch?v=OYCpFLq0GHs)
 
 ## 14. hodina (2024-12-19)
 
@@ -290,5 +291,14 @@ na klávesnici)
 </a>
 
 * Opakovali jsme cykly (z loňského roku) s BB-8 v [code.org](https://www.code.org)
+
+## 27. hodina (2025-05-15)
+
+<a href="pokrocili-2-11-modely.jpg">
+    <img align="right" src="pokrocili-2-11-modely-small.jpg" style="height:85px">
+</a>
+
+* Opakovali jsme cykly (z loňského roku) s BB-8 v [code.org](https://www.code.org) a vnořené cykly v bludišti
+* Dodělání posledního papírového modelu
 
 <img align="right" src="../media/robots_bottom.jpg">
