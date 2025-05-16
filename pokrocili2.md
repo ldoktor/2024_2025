@@ -245,6 +245,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 * [Micro:bit](../assets/microbit)
   * Motorka na dálkové ovládání pomocí microbit + ``Wonder Building Kit``, vlastní model od Kuby a odladění dálkového ovládání (ostatní byli nemocní/chyběli)
+  * [Video](https://www.youtube.com/watch?v=GONJSyvt234)
 
 ## 20. hodina (2025-02-27)
 
