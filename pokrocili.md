@@ -301,4 +301,32 @@ na klávesnici)
 * Opakovali jsme cykly (z loňského roku) s BB-8 v [code.org](https://www.code.org) a vnořené cykly v bludišti
 * Dodělání posledního papírového modelu
 
+## 28. hodina (2025-05-22)
+
+* [Micro:bit](../assets/microbit)
+  * Opakování
+  * Tvorba testovacího programu k laserové střelnici, prozatím pouze pomocí tlačítek
+
+## 29. hodina (2025-05-29)
+
+<a href="zacatecnici-2-13-periferie2.jpg">
+    <img align="right" src="zacatecnici-2-13-periferie2-small.jpg" style="height:85px">
+</a>
+<a href="pokrocili-2-13-periferie.jpg">
+    <img align="right" src="pokrocili-2-13-periferie-small.jpg" style="height:85px">
+</a>
+<a href="pokrocili-2-13-periferie2.jpg">
+    <img align="right" src="pokrocili-2-13-periferie2-small.jpg" style="height:85px">
+</a>
+
+* Počítačové periferie
+  * Rozdělení - vstupní (input), výstupní (output) a vstupně-výstupní (in-out)
+    * vstupní - klávestnice, myš, joystick, kamera, ... - zpravidla přes USB port
+    * výstupní - monitor (HDMI, display port), tiskárna (USB port), reproduktory (jack), ...
+    * vstupně-výstupní - síťová karta (RJ-45), externí disk, volant s force-feedbackem, ... - zpravidla přes USB port
+  * Praktický test různých periferií:
+    * Volant Logitech G25 s force feedbackem (zpětná odezva téměř jako u auta) a 900° otáčením ve hře Dirt 3
+    * [Micro:bit](../assets/microbit) vložený do [Waveshare](https://github.com/waveshare/JoyStick) joysticku připojený do PC a pomocí [pythonu](https://github.com/ldoktor/microbit-waveshark-joy-pc-control) tvářícího se jako joystick ve hře [Flight Gear](https://www.flightgear.org/) - joystick ovládal křídélka (otočení vlevo-vpravo) a výškové kormidlo (nahoru-dole), naklonění microbitu pak směrové kormidlo (jemné korekce, zatáčení na zemi)
+    * [Micro:bit](../assets/microbit) připojený do PC a pomocí [pythonu](https://github.com/ldoktor/microbit-waveshark-joy-pc-control) tvářícího se jako joystick ve hře [SuperTuxKart](https://supertuxkart.net) - pro legraci jsme využili senzor naklonění pro akceleraci/brždění a mikrofon pro ovládání zatáčení (ticho doleva, křik doprava)
+
 <img align="right" src="../media/robots_bottom.jpg">
