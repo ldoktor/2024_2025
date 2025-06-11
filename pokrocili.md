@@ -329,4 +329,13 @@ na klávesnici)
     * [Micro:bit](../assets/microbit) vložený do [Waveshare](https://github.com/waveshare/JoyStick) joysticku připojený do PC a pomocí [pythonu](https://github.com/ldoktor/microbit-waveshark-joy-pc-control) tvářícího se jako joystick ve hře [Flight Gear](https://www.flightgear.org/) - joystick ovládal křídélka (otočení vlevo-vpravo) a výškové kormidlo (nahoru-dole), naklonění microbitu pak směrové kormidlo (jemné korekce, zatáčení na zemi)
     * [Micro:bit](../assets/microbit) připojený do PC a pomocí [pythonu](https://github.com/ldoktor/microbit-waveshark-joy-pc-control) tvářícího se jako joystick ve hře [SuperTuxKart](https://supertuxkart.net) - pro legraci jsme využili senzor naklonění pro akceleraci/brždění a mikrofon pro ovládání zatáčení (ticho doleva, křik doprava)
 
+## 30. hodina (2025-06-05)
+
+<a href="pokrocili-2-14-microbit.jpg">
+    <img align="right" src="pokrocili-2-14-microbit-small.jpg" style="height:85px">
+</a>
+
+* [Micro:bit](../assets/microbit)
+  * Výroba pohyblivého terče pomocí [lega/wonder building kitu](https://ldoktor.github.io/assets/microbit/#wonder-building-kit)
+
 <img align="right" src="../media/robots_bottom.jpg">

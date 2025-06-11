@@ -345,6 +345,12 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
     * [Micro:bit](../assets/microbit) vložený do [Waveshare](https://github.com/waveshare/JoyStick) joysticku připojený do PC a pomocí [pythonu](https://github.com/ldoktor/microbit-waveshark-joy-pc-control) tvářícího se jako joystick ve hře [Flight Gear](https://www.flightgear.org/) - joystick ovládal křídélka (otočení vlevo-vpravo) a výškové kormidlo (nahoru-dole), naklonění microbitu pak směrové kormidlo (jemné korekce, zatáčení na zemi)
     * [Micro:bit](../assets/microbit) připojený do PC a pomocí [pythonu](https://github.com/ldoktor/microbit-waveshark-joy-pc-control) tvářícího se jako joystick ve hře [SuperTuxKart](https://supertuxkart.net) - pro legraci jsme využili senzor naklonění pro akceleraci/brždění a mikrofon pro ovládání zatáčení (ticho doleva, křik doprava)
 
+## 30. hodina (2025-06-05)
+
+* [scratch](https://scratch.mit.edu)
+  * Seznámení s prostředím (pro ty co nebyli)
+  * Tvorba postav a základní události (po kliknutí na mě spusť zvuk, po stisku klávesy "a" se posuň dopředu o X kroků)
+
 * * * * * * * * *
 
 <a name="footnote1">1</a>: Dle psychologa [Jeana Piageta](https://cs.wikipedia.org/wiki/Jean\_Piaget)
