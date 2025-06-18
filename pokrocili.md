@@ -338,4 +338,24 @@ na klávesnici)
 * [Micro:bit](../assets/microbit)
   * Výroba pohyblivého terče pomocí [lega/wonder building kitu](https://ldoktor.github.io/assets/microbit/#wonder-building-kit)
 
+## 30. hodina (2025-06-12)
+
+<a href="pokrocili2-2-10-terc_bb.jpg">
+    <img align="right" src="pokrocili2-2-10-terc_bb-small.jpg" style="height:85px">
+</a>
+<a href="pokrocili2-2-10-terc_schem.jpg">
+    <img align="right" src="pokrocili2-2-10-terc_schem-small.jpg" style="height:85px">
+</a>
+<a href="pokrocili2-2-10-laser_schem.svg">
+    <img align="right" src="pokrocili2-2-10-laser_schem-small.jpg" style="height:85px">
+</a>
+
+
+* [Micro:bit](../assets/microbit)
+  * [Zapojení terče](pokrocili2-2-10-terc.fzz) - napětí se rozdělí mezi pull-up rezistor a fotorezistor, hodnota fotorezistoru se mění dle osvětlení a tím se nám mění napětí, které micro:bit naměří na pinu 1
+  * čtení jeho hodnoty pomocí micro:bitu (číslo z pinu P1 nám vrátí hodnotu 0 - 1023 dle osvětlení fotorezistoru)
+  * [Zapojení laseru](pokrocili2-2-10-laser.fzz)
+    * při vypnutém tlačítku je připojena baterie na kondenzátor, ten se nabije a obvod setrvává "v klidu"
+    * po stisknutí tlačítka se odpojí baterie a připojí se kondenzátor na laserovou diodu. Přebytek elektronů putuje skrz diodu, kondenzátor se vybíjí a dioda svítí. Když se kondenzátor vybije, přestane tlačit elektrony skrz diodu a ta zhasne.
+
 <img align="right" src="../media/robots_bottom.jpg">

@@ -351,6 +351,15 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * Seznámení s prostředím (pro ty co nebyli)
   * Tvorba postav a základní události (po kliknutí na mě spusť zvuk, po stisku klávesy "a" se posuň dopředu o X kroků)
 
+## 31. hodina (2025-06-12)
+
+* [scratch](https://scratch.mit.edu)
+  * Tvorba jednoduchého příběhu, rozšířená verze pro inspiraci [zde](https://scratch.mit.edu/projects/1187800610)
+  * Nejprve si přidáme jednotlivá pozadí, která oddělují scény příběhu
+  * Následně přidáme všechny postavy a u každé přidáme kód "po kliknutí zelené vlaječky" - "skryj se"
+  * Někde (nejčastěji v pozadí) nastavíme "po kliknutí zelené vlajekčy" - "přepni pozadí na XXX"
+  * Následně využíváme "po změně pozadí na YYY" abychom začali jednotlivé části příběhu kdykoliv se nám změní pozadí
+
 * * * * * * * * *
 
 <a name="footnote1">1</a>: Dle psychologa [Jeana Piageta](https://cs.wikipedia.org/wiki/Jean\_Piaget)

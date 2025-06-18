@@ -262,12 +262,20 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 21. hodina (2025-03-13)
 
+
 <a href="pokrocili2-2-05-ai.jpg">
     <img align="right" src="pokrocili2-2-05-ai-small.jpg" style="height:85px">
 </a>
+<a href="pokrocili2-2-10-terc_bb.jpg">
+    <img align="right" src="pokrocili2-2-10-terc_bb-small.jpg" style="height:85px">
+</a>
+<a href="pokrocili2-2-10-terc_schem.jpg">
+    <img align="right" src="pokrocili2-2-10-terc_schem-small.jpg" style="height:85px">
+</a>
 
 * [Micro:bit](../assets/microbit)
-  * Zapojení fotorezistoru na breadboardu
+  * Zapojení fotorezistoru na breadboardu - napětí se rozdělí mezi pull-up rezistor a fotorezistor, hodnota fotorezistoru se mění dle osvětlení a tím se nám mění na
+pětí, které micro:bit naměří na pinu 1
 * [zonerai - generátor obrázků](https://zonerai.com) - vyzkoušeli jsme si generovat různé zábavné obrázky pomocí umělé inteligence (a procvičili jsme si psaní
 na klávesnici)
 
@@ -326,6 +334,8 @@ na klávesnici)
   * Bojovali jsme s propojením drátků (pájení by bylo lepší, ale hůře rozebíratelné)
   * Někdy jsme museli destruktivně vyjmout vypínače, abychom zapojili a izolepou zajistili drátky
   * Využíváme 2x2xAAA nabíjecí baterie = 2x2x1.2V = 4.8V (laser snese 5V) a 470pF kondenzátory [zapojení](pokrocili2-2-10-laser.fzz) [schéma](pokrocili2-2-10-laser_schem.svg)
+    * při vypnutém tlačítku je připojena baterie na kondenzátor, ten se nabije a obvod setrvává "v klidu"
+    * po stisknutí tlačítka se odpojí baterie a připojí se kondenzátor na laserovou diodu. Přebytek elektronů putuje skrz diodu, kondenzátor se vybíjí a dioda svítí. Když se kondenzátor vybije, přestane tlačit elektrony skrz diodu a ta zhasne.
 
 ## 27. hodina (2025-05-15)
 
@@ -368,5 +378,14 @@ na klávesnici)
 
 * Speedrun pokročilého kurzu [code.org](https://www.code.org)
 * Kdo minule chyběl měl možnost si vyzkoušet volant i joystick a dozvěděl se něco o vstupních/výstupních/vstupně-výstupních periferiích počítače
+
+## 31. hodina (2025-06-12)
+
+<a href="pokrocili2-2-15-code-org.jpg">
+    <img align="right" src="pokrocili2-2-15-code-org-small.jpg" style="height:85px">
+</a>
+
+* Speedrun pokročilého kurzu [code.org](https://www.code.org)
+  * většina zvládla pokročilé cykly, někteří se dostali i na podmínky
 
 <img align="right" src="../media/robots_bottom.jpg">
