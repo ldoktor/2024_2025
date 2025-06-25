@@ -140,6 +140,9 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 <a href="pokrocili-1-13-mikulas.jpg">
     <img align="right" src="pokrocili-1-13-mikulas-small.jpg" style="height:85px">
 </a>
+<a href="https://www.youtube.com/watch?v=OYCpFLq0GHs">
+    <img align="right" src="video-0-0-vanoce-small.jpg" style="height:85px">
+</a>
 
 * Mikulášská nadílka
   * Naprogramovali jsme 2 andílky (Beeboti) a sv. Mikuláše (Cubetto) aby odešel z nebe na náměstí a následně do kostela bez toho aby se srazily s čertem. Nejtěžší bylo zajistit aby natěšení andělíčkové nedobíhali pomalého Mikuláše, ale nakonec se nám to podařilo.
@@ -338,7 +341,7 @@ na klávesnici)
 * [Micro:bit](../assets/microbit)
   * Výroba pohyblivého terče pomocí [lega/wonder building kitu](https://ldoktor.github.io/assets/microbit/#wonder-building-kit)
 
-## 30. hodina (2025-06-12)
+## 31. hodina (2025-06-12)
 
 <a href="pokrocili2-2-10-terc_bb.jpg">
     <img align="right" src="pokrocili2-2-10-terc_bb-small.jpg" style="height:85px">
@@ -350,12 +353,20 @@ na klávesnici)
     <img align="right" src="pokrocili2-2-10-laser_schem-small.jpg" style="height:85px">
 </a>
 
-
 * [Micro:bit](../assets/microbit)
   * [Zapojení terče](pokrocili2-2-10-terc.fzz) - napětí se rozdělí mezi pull-up rezistor a fotorezistor, hodnota fotorezistoru se mění dle osvětlení a tím se nám mění napětí, které micro:bit naměří na pinu 1
   * čtení jeho hodnoty pomocí micro:bitu (číslo z pinu P1 nám vrátí hodnotu 0 - 1023 dle osvětlení fotorezistoru)
   * [Zapojení laseru](pokrocili2-2-10-laser.fzz)
     * při vypnutém tlačítku je připojena baterie na kondenzátor, ten se nabije a obvod setrvává "v klidu"
     * po stisknutí tlačítka se odpojí baterie a připojí se kondenzátor na laserovou diodu. Přebytek elektronů putuje skrz diodu, kondenzátor se vybíjí a dioda svítí. Když se kondenzátor vybije, přestane tlačit elektrony skrz diodu a ta zhasne.
+
+## 32. hodina (2025-06-19)
+
+<a href="pokrocili2-2-11-microbit.jpg">
+    <img align="right" src="pokrocili2-2-11-microbit-small.jpg" style="height:85px">
+</a>
+
+* [Micro:bit](../assets/microbit)
+  * Co nejrychleji jsme se pokusili doprogramovat kód všech terčů, ale bohužel jsme nestili odladit vše (sklopit místo vyklopit, chybějící podmínky, špatné názvy). Prostě chybělo málo ale velmi krátce jsme si vyzkoušeli střelbu na jeden funkční terč bez měření času.
 
 <img align="right" src="../media/robots_bottom.jpg">

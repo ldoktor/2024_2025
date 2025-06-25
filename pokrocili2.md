@@ -242,6 +242,9 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 <a href="pokrocili2-2-03-moto.jpg">
     <img align="right" src="pokrocili2-2-03-moto-small.jpg" style="height:85px">
 </a>
+<a href="https://www.youtube.com/watch?v=GONJSyvt234">
+    <img align="right" src="video-0-0-motorka-small.jpg" style="height:85px">
+</a>
 
 * [Micro:bit](../assets/microbit)
   * Motorka na dálkové ovládání pomocí microbit + ``Wonder Building Kit``, vlastní model od Kuby a odladění dálkového ovládání (ostatní byli nemocní/chyběli)
@@ -387,5 +390,14 @@ na klávesnici)
 
 * Speedrun pokročilého kurzu [code.org](https://www.code.org)
   * většina zvládla pokročilé cykly, někteří se dostali i na podmínky
+
+## 32. hodina (2025-06-19)
+
+<a href="https://www.youtube.com/watch?v=FFXgiMeOjSQ">
+    <img align="right" src="video-0-0-toustik-small.jpg" style="height:85px">
+</a>
+
+* Hra - namaž mi toustík
+ * Zábavná aktivita při které se děti snažily jednoznačně popsat sekvenci vedoucí k vytvoření lahodného toustíku
 
 <img align="right" src="../media/robots_bottom.jpg">

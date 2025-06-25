@@ -146,6 +146,9 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 <a href="zacatecnici-1-13-mikulas.jpg">
     <img align="right" src="zacatecnici-1-13-mikulas-small.jpg" style="height:85px">
 </a>
+<a href="https://www.youtube.com/watch?v=OYCpFLq0GHs">
+    <img align="right" src="video-0-0-vanoce-small.jpg" style="height:85px">
+</a>
 
 * Mikulášská nadílka
   * Naprogramovali jsme 2 andílky (Beeboti) a sv. Mikuláše (Cubetto) aby odešel z nebe na náměstí a následně do kostela bez toho aby se srazily s čertem. Nejtěžší bylo zajistit aby natěšení andělíčkové nedobíhali pomalého Mikuláše, ale nakonec se nám to podařilo.
@@ -359,6 +362,17 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * Následně přidáme všechny postavy a u každé přidáme kód "po kliknutí zelené vlaječky" - "skryj se"
   * Někde (nejčastěji v pozadí) nastavíme "po kliknutí zelené vlajekčy" - "přepni pozadí na XXX"
   * Následně využíváme "po změně pozadí na YYY" abychom začali jednotlivé části příběhu kdykoliv se nám změní pozadí
+
+## 32. hodina (2025-06-19)
+
+<a href="zacatecnici-2-16-scratch.jpg">
+    <img align="right" src="zacatecnici-2-16-scratch-small.jpg" style="height:85px">
+</a>
+
+* [scratch](https://scratch.mit.edu)
+  * Vytvořili jsme si jednoduchou hru nachytání "myši" [zak1](https://scratch.mit.edu/projects/1190366596) [zak2](https://scratch.mit.edu/projects/1190367427) [zak3](https://scratch.mit.edu/projects/1190367720) [zak4](https://scratch.mit.edu/projects/1190366985)
+  * Projekty si můžete dále upravovat pomocí "prohlédni dovnitř" a pokud vám rodiče založí účet, můžete si udělat vlastní verze.
+  * Na závěr jsme si ukázali, že scratch se dá ovládat i kamerou (viz obrázek)
 
 * * * * * * * * *
 
