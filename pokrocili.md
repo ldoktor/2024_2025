@@ -33,9 +33,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 1. hodina (2024-09-19)
 
-<a href="pokrocili-1-01-plan.jpg">
-    <img align="right" src="pokrocili-1-01-plan-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-1-01-plan-small.jpg" data-full="pokrocili-1-01-plan.jpg" style="height:85px" class="obrazek">
 
 * Brainstorming ohledně projeků, kterým bychom se chtěli věnovat
 * Psaní všemi deseti [s Máriem](https://archive.org/details/TYPING_VGA#)
@@ -55,9 +53,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 3. hodina (2024-10-04)
 
-<a href="pokrocili-1-03-scratch.jpg">
-    <img align="right" src="pokrocili-1-03-scratch-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-1-03-scratch-small.jpg" data-full="pokrocili-1-03-scratch.jpg" style="height:85px" class="obrazek">
 
 * Psaní všemi deseti [s pomocí umimeinformatiku](https://www.umimeinformatiku.cz/psani-vsemi-deseti)
 * [scratch](https://scratch.mit.edu)
@@ -94,9 +90,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 8. hodina (2024-11-07)
 
-<a href="pokrocili-1-08-scratch.jpg">
-    <img align="right" src="pokrocili-1-08-scratch-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-1-08-scratch-small.jpg" data-full="pokrocili-1-08-scratch.jpg" style="height:85px" class="obrazek">
 
 * [scratch](https://scratch.mit.edu)
   * Opravy chybek
@@ -118,9 +112,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 11. hodina (2024-11-28)
 
-<a href="pokrocili-1-11-cubetto.jpg">
-    <img align="right" src="pokrocili-1-11-cubetto-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-1-11-cubetto-small.jpg" data-full="pokrocili-1-11-cubetto.jpg" style="height:85px" class="obrazek">
 
 * [www.code.org](https://www.code.org)
   * Zvolili jsme pokročilý kurz formou "speedrun". Nechceme 100% správnost, ale chceme se co nejrychleji dostat co nejdále.
@@ -128,21 +120,17 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 12. hodina (2024-12-05)
 
-<a href="pokrocili-1-12-mikulas.jpg">
-    <img align="right" src="pokrocili-1-12-mikulas-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-1-12-mikulas-small.jpg" data-full="pokrocili-1-12-mikulas.jpg" style="height:85px" class="obrazek">
 
 * Mikulášská nadílka
   * Pomocí Cubetta (sv. Mikuláš), Beebotů (andílci) a čerta (ozobot) jsme plánovali mikuklášskou nadílku. Použili jsme převleky od začátečníků, namalovali jsme si plán a zjistit, že je Cubetto pomalý a andílci budou muset na Mikuláše čekat.
 
 ## 13. hodina (2024-12-12)
 
-<a href="pokrocili-1-13-mikulas.jpg">
-    <img align="right" src="pokrocili-1-13-mikulas-small.jpg" style="height:85px">
-</a>
 <a href="https://www.youtube.com/watch?v=OYCpFLq0GHs">
     <img align="right" src="video-0-0-vanoce-small.jpg" style="height:85px">
 </a>
+<img align="right" src="pokrocili-1-13-mikulas-small.jpg" data-full="pokrocili-1-13-mikulas.jpg" style="height:85px" class="obrazek">
 
 * Mikulášská nadílka
   * Naprogramovali jsme 2 andílky (Beeboti) a sv. Mikuláše (Cubetto) aby odešel z nebe na náměstí a následně do kostela bez toho aby se srazily s čertem. Nejtěžší bylo zajistit aby natěšení andělíčkové nedobíhali pomalého Mikuláše, ale nakonec se nám to podařilo.
@@ -150,9 +138,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 14. hodina (2024-12-19)
 
-<a href="pokrocili-1-14-pc.jpg">
-    <img align="right" src="pokrocili-1-14-pc-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-1-14-pc-small.jpg" data-full="pokrocili-1-14-pc.jpg" style="height:85px" class="obrazek">
 
 * Rozmontování, složení a spuštění počítače, popis komponent a jejich funkcí.
 
@@ -169,9 +155,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 16. hodina (2025-01-16)
 
-<a href="pokrocili-1-16-blender.jpg">
-    <img align="right" src="pokrocili-1-16-blender-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-1-16-blender-small.jpg" data-full="pokrocili-1-16-blender.jpg" style="height:85px" class="obrazek">
 
 * Papírový model [v Blenderu](https://blender.org)
   * Opakování pohybu scény
@@ -193,9 +177,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 18. hodina (2025-02-13)
 
-<a href="pokrocili-2-02-blender.jpg">
-    <img align="right" src="pokrocili-2-02-blender-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-2-02-blender-small.jpg" data-full="pokrocili-2-02-blender.jpg" style="height:85px" class="obrazek">
 
 * Papírový model [v Blenderu](https://blender.org)
   * Opakování (`shift-a,g,r,s,+x,+y,+z,tab,1,2,3,...`)
@@ -226,9 +208,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 21. hodina (2025-03-13)
 
-<a href="pokrocili-2-05-ai.jpg">
-    <img align="right" src="pokrocili-2-05-ai-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-2-05-ai-small.jpg" data-full="pokrocili-2-05-ai.jpg" style="height:85px" class="obrazek">
 
 * Papírový model [v Blenderu](https://blender.org)
   * Společná tvorba auta
@@ -250,27 +230,21 @@ na klávesnici)
 
 ## 22. hodina (2025-03-20)
 
-<a href="pokrocili-2-06-blender.jpg">
-    <img align="right" src="pokrocili-2-06-blender-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-2-06-blender-small.jpg" data-full="pokrocili-2-06-blender.jpg" style="height:85px" class="obrazek">
 
 * Papírový model [v Blenderu](https://blender.org)
   * Individuální tvorba modelů - [pistole](pokrocili-2-06-pistole.blend) ([tisk](pokrocili-2-06-pistole.pdf))
 
 ## 23. hodina (2025-03-27)
 
-<a href="pokrocili-2-07-blender.jpg">
-    <img align="right" src="pokrocili-2-07-blender-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-2-07-blender-small.jpg" data-full="pokrocili-2-07-blender.jpg" style="height:85px" class="obrazek">
 
 * Papírový model [v Blenderu](https://blender.org)
   * Individuální tvorba modelů - [ptacek](pokrocili-2-07-ptacek.blend) ([tisk](pokrocili-2-07-ptacek.pdf))
 
 ## 24. hodina (2025-04-03)
 
-<a href="pokrocili-2-08-modely.jpg">
-    <img align="right" src="pokrocili-2-08-modely-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-2-08-modely-small.jpg" data-full="pokrocili-2-08-modely.jpg" style="height:85px" class="obrazek">
 
 * Papírový model [v Blenderu](https://blender.org)
   * Exportované modely pomocí "paper model extension" jsme stříhali a lepili.
@@ -279,9 +253,7 @@ na klávesnici)
 
 ## 25. hodina (2025-04-10)
 
-<a href="pokrocili-2-09-modely.jpg">
-    <img align="right" src="pokrocili-2-09-modely-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-2-09-modely-small.jpg" data-full="pokrocili-2-09-modely.jpg" style="height:85px" class="obrazek">
 
 * Papírový model [v Blenderu](https://blender.org)
   * Dopomoc s lepením
@@ -289,17 +261,13 @@ na klávesnici)
 
 ## 26. hodina (2025-04-24)
 
-<a href="pokrocili-2-10-code-org.jpg">
-    <img align="right" src="pokrocili-2-10-code-org-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-2-10-code-org-small.jpg" data-full="pokrocili-2-10-code-org.jpg" style="height:85px" class="obrazek">
 
 * Opakovali jsme cykly (z loňského roku) s BB-8 v [code.org](https://www.code.org)
 
 ## 27. hodina (2025-05-15)
 
-<a href="pokrocili-2-11-modely.jpg">
-    <img align="right" src="pokrocili-2-11-modely-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-2-11-modely-small.jpg" data-full="pokrocili-2-11-modely.jpg" style="height:85px" class="obrazek">
 
 * Opakovali jsme cykly (z loňského roku) s BB-8 v [code.org](https://www.code.org) a vnořené cykly v bludišti
 * Dodělání posledního papírového modelu
@@ -312,15 +280,9 @@ na klávesnici)
 
 ## 29. hodina (2025-05-29)
 
-<a href="zacatecnici-2-13-periferie2.jpg">
-    <img align="right" src="zacatecnici-2-13-periferie2-small.jpg" style="height:85px">
-</a>
-<a href="pokrocili-2-13-periferie.jpg">
-    <img align="right" src="pokrocili-2-13-periferie-small.jpg" style="height:85px">
-</a>
-<a href="pokrocili-2-13-periferie2.jpg">
-    <img align="right" src="pokrocili-2-13-periferie2-small.jpg" style="height:85px">
-</a>
+<img align="right" src="zacatecnici-2-13-periferie2-small.jpg" data-full="zacatecnici-2-13-periferie2.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-2-13-periferie-small.jpg" data-full="pokrocili-2-13-periferie.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili-2-13-periferie2-small.jpg" data-full="pokrocili-2-13-periferie2.jpg" style="height:85px" class="obrazek">
 
 * Počítačové periferie
   * Rozdělení - vstupní (input), výstupní (output) a vstupně-výstupní (in-out)
@@ -334,24 +296,16 @@ na klávesnici)
 
 ## 30. hodina (2025-06-05)
 
-<a href="pokrocili-2-14-microbit.jpg">
-    <img align="right" src="pokrocili-2-14-microbit-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili-2-14-microbit-small.jpg" data-full="pokrocili-2-14-microbit.jpg" style="height:85px" class="obrazek">
 
 * [Micro:bit](../assets/microbit)
   * Výroba pohyblivého terče pomocí [lega/wonder building kitu](https://ldoktor.github.io/assets/microbit/#wonder-building-kit)
 
 ## 31. hodina (2025-06-12)
 
-<a href="pokrocili2-2-10-terc_bb.jpg">
-    <img align="right" src="pokrocili2-2-10-terc_bb-small.jpg" style="height:85px">
-</a>
-<a href="pokrocili2-2-10-terc_schem.jpg">
-    <img align="right" src="pokrocili2-2-10-terc_schem-small.jpg" style="height:85px">
-</a>
-<a href="pokrocili2-2-10-laser_schem.svg">
-    <img align="right" src="pokrocili2-2-10-laser_schem-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili2-2-10-terc_bb-small.jpg" data-full="pokrocili2-2-10-terc_bb.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili2-2-10-terc_schem-small.jpg" data-full="pokrocili2-2-10-terc_schem.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili2-2-10-laser_schem-small.jpg" data-full="pokrocili2-2-10-laser_schem.svg" style="height:85px" class="obrazek">
 
 * [Micro:bit](../assets/microbit)
   * [Zapojení terče](pokrocili2-2-10-terc.fzz) - napětí se rozdělí mezi pull-up rezistor a fotorezistor, hodnota fotorezistoru se mění dle osvětlení a tím se nám mění napětí, které micro:bit naměří na pinu 1
@@ -362,11 +316,18 @@ na klávesnici)
 
 ## 32. hodina (2025-06-19)
 
-<a href="pokrocili2-2-11-microbit.jpg">
-    <img align="right" src="pokrocili2-2-11-microbit-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili2-2-11-microbit-small.jpg" data-full="pokrocili2-2-11-microbit.jpg" style="height:85px" class="obrazek">
 
 * [Micro:bit](../assets/microbit)
   * Co nejrychleji jsme se pokusili doprogramovat kód všech terčů, ale bohužel jsme nestili odladit vše (sklopit místo vyklopit, chybějící podmínky, špatné názvy). Prostě chybělo málo ale velmi krátce jsme si vyzkoušeli střelbu na jeden funkční terč bez měření času.
+
+<div id="overlay" class="overlay hidden">
+  <span id="prev" class="nav">&#9664;</span>
+  <img id="overlay-img" src="" alt="Obrázek">
+  <span id="next" class="nav">&#9654;</span>
+  <span id="close" class="close">&times;</span>
+</div>
+<link rel="stylesheet" href="/assets/gallery.css">
+<script src="/assets/gallery.js"></script>
 
 <img align="right" src="../media/robots_bottom.jpg">

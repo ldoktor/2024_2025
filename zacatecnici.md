@@ -25,18 +25,14 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 1. hodina (2024-09-19)
 
-<a href="zacatecnici-1-01-beebot.jpg">
-    <img align="right" src="zacatecnici-1-01-beebot-small.jpg" style="height:85px">
-</a>
+<img align="right" src="zacatecnici-1-01-beebot-small.jpg" data-full="zacatecnici-1-01-beebot.jpg" style="height:85px" class="obrazek">
 
 * Seznámení s Beeboty (včelkami) - pohyb vpřed a vzad
 * Ovládání [myši](https://decko.ceskatelevize.cz/vyhledavani?q=zv%C4%9B%C5%99inec&t=app) a [klávesnice](https://decko.ceskatelevize.cz/websterovi/websterovi-vzhuru-domu)
 
 ## 2. hodina (2024-09-26)
 
-<a href="zacatecnici-1-02-code-org.jpg">
-    <img align="right" src="zacatecnici-1-02-code-org-small.jpg" style="height:85px">
-</a>
+<img align="right" src="zacatecnici-1-02-code-org-small.jpg" data-full="zacatecnici-1-02-code-org.jpg" style="height:85px" class="obrazek">
 
 * [www.code.org](https://www.code.org)
   * Přihlášení se (pomocí kódu sekce a obrázkového hesla)
@@ -45,9 +41,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 3. hodina (2024-10-03)
 
-<a href="zacatecnici-1-03-beebot.jpg">
-    <img align="right" src="zacatecnici-1-03-beebot-small.jpg" style="height:85px">
-</a>
+<img align="right" src="zacatecnici-1-03-beebot-small.jpg" data-full="zacatecnici-1-03-beebot.jpg" style="height:85px" class="obrazek">
 
 * Beeboti
   * pohyb na podložce
@@ -63,9 +57,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 5. hodina (2024-10-17)
 
-<a href="zacatecnici-1-05-beebot.jpg">
-    <img align="right" src="zacatecnici-1-05-beebot-small.jpg" style="height:85px">
-</a>
+<img align="right" src="zacatecnici-1-05-beebot-small.jpg" data-full="zacatecnici-1-05-beebot.jpg" style="height:85px" class="obrazek">
 
 * Beeboti
   * společný příběh na podložce s převleky
@@ -75,9 +67,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 6. hodina (2024-10-24)
 
-<a href="zacatecnici-1-06-beebot.jpg">
-    <img align="right" src="zacatecnici-1-06-beebot-small.jpg" style="height:85px">
-</a>
+<img align="right" src="zacatecnici-1-06-beebot-small.jpg" data-full="zacatecnici-1-06-beebot.jpg" style="height:85px" class="obrazek">
 
 * [www.code.org](https://www.code.org)
   * "Debuggování se Scratem", častěji jsme využívali "krokování" místo obyčejného "spuštění"
@@ -102,9 +92,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 9. hodina (2024-11-14)
 
-<a href="zacatecnici-1-09-cubetto.jpg">
-    <img align="right" src="zacatecnici-1-09-cubetto-small.jpg" style="height:85px">
-</a>
+<img align="right" src="zacatecnici-1-09-cubetto-small.jpg" data-full="zacatecnici-1-09-cubetto.jpg" style="height:85px" class="obrazek">
 
 * Cubetto
   * Seznámaní se s "Kubíkem"
@@ -113,12 +101,8 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 10. hodina (2024-11-21)
 
-<a href="zacatecnici-1-10-dort.jpg">
-    <img align="right" src="zacatecnici-1-10-dort-small.jpg" style="height:85px">
-</a>
-<a href="zacatecnici-1-10-robots.jpg">
-    <img align="right" src="zacatecnici-1-10-robots-small.jpg" style="height:85px">
-</a>
+<img align="right" src="zacatecnici-1-10-dort-small.jpg" data-full="zacatecnici-1-10-dort.jpg" style="height:85px" class="obrazek">
+<img align="right" src="zacatecnici-1-10-robots-small.jpg" data-full="zacatecnici-1-10-robots.jpg" style="height:85px" class="obrazek">
 
 * [www.code.org](https://www.code.org)
   * Sbíráme poklady s Laurelem - pokračování v cyklech
@@ -128,9 +112,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 11. hodina (2024-11-28)
 
-<a href="zacatecnici-1-11-cubetto.jpg">
-    <img align="right" src="zacatecnici-1-11-cubetto-small.jpg" style="height:85px">
-</a>
+<img align="right" src="zacatecnici-1-11-cubetto-small.jpg" data-full="zacatecnici-1-11-cubetto.jpg" style="height:85px" class="obrazek">
 
 * Cubetto
   * Hra "kouknu a vidím" (vágně popíši kam se chce Kubík podívat, děti se tam dostanou a vysvětlí, proč toto políčko vyhovuje zadání)
@@ -143,12 +125,10 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 13. hodina (2024-12-12)
 
-<a href="zacatecnici-1-13-mikulas.jpg">
-    <img align="right" src="zacatecnici-1-13-mikulas-small.jpg" style="height:85px">
-</a>
 <a href="https://www.youtube.com/watch?v=OYCpFLq0GHs">
     <img align="right" src="video-0-0-vanoce-small.jpg" style="height:85px">
 </a>
+<img align="right" src="zacatecnici-1-13-mikulas-small.jpg" data-full="zacatecnici-1-13-mikulas.jpg" style="height:85px" class="obrazek">
 
 * Mikulášská nadílka
   * Naprogramovali jsme 2 andílky (Beeboti) a sv. Mikuláše (Cubetto) aby odešel z nebe na náměstí a následně do kostela bez toho aby se srazily s čertem. Nejtěžší bylo zajistit aby natěšení andělíčkové nedobíhali pomalého Mikuláše, ale nakonec se nám to podařilo.
@@ -156,17 +136,13 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 14. hodina (2024-12-19)
 
-<a href="zacatecnici-1-14-pc.jpg">
-    <img align="right" src="zacatecnici-1-14-pc-small.jpg" style="height:85px">
-</a>
+<img align="right" src="zacatecnici-1-14-pc-small.jpg" data-full="zacatecnici-1-14-pc.jpg" style="height:85px" class="obrazek">
 
 * Rozmontování, složení a spuštění počítače, popis komponent a jejich funkcí. Test ochrany proti přehřátí (thermal throttling) pomocí upravené hry housenka a odstranění chladiče.
 
 ## 15. hodina (2025-01-09)
 
-<a href="zacatecnici-1-15-tesla.jpg">
-    <img align="right" src="zacatecnici-1-15-tesla-small.jpg" style="height:85px">
-</a>
+<img align="right" src="zacatecnici-1-15-tesla-small.jpg" data-full="zacatecnici-1-15-tesla.jpg" style="height:85px" class="obrazek">
 
 * [www.code.org](https://www.code.org)
   * Pokračování v cyklech
@@ -179,9 +155,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 16. hodina (2025-01-16)
 
-<a href="zacatecnici-1-16-boffin.jpg">
-    <img align="right" src="zacatecnici-1-16-boffin-small.jpg" style="height:85px">
-</a>
+<img align="right" src="zacatecnici-1-16-boffin-small.jpg" data-full="zacatecnici-1-16-boffin.jpg" style="height:85px" class="obrazek">
 
 * Elektrická stavebnice Boffin
   * S pomocí [videa](https://www.youtube.com/watch?v=3KePcASD0NQ) jsme si řekli něco málo o elektřině
@@ -196,9 +170,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 18. hodina (2025-02-13)
 
-<a href="zacatecnici-2-02-boffin.jpg">
-    <img align="right" src="zacatecnici-2-02-boffin-small.jpg" style="height:85px">
-</a>
+<img align="right" src="zacatecnici-2-02-boffin-small.jpg" data-full="zacatecnici-2-02-boffin.jpg" style="height:85px" class="obrazek">
 
 * Elektrická stavebnice Boffin
   * Co to je [napětí](https://www.youtube.com/watch?v=w82aSjLuD_8&list=PLWv9VM947MKi_7yJ0_FCfzTBXpQU-Qd3K&index=4)?
@@ -212,9 +184,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 20. hodina (2025-02-27)
 
-<a href="zacatecnici-2-04-boffin.jpg">
-    <img align="right" src="zacatecnici-2-04-boffin-small.jpg" style="height:85px">
-</a>
+<img align="right" src="zacatecnici-2-04-boffin-small.jpg" data-full="zacatecnici-2-04-boffin.jpg" style="height:85px" class="obrazek">
 
 * Elektrická stavebnice Boffin
   * Co to je [napětí](https://www.youtube.com/watch?v=w82aSjLuD_8&list=PLWv9VM947MKi_7yJ0_FCfzTBXpQU-Qd3K&index=4) (opáčko pro ty co chyběli)?
@@ -224,15 +194,9 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 21. hodina (2025-03-13)
 
-<a href="zacatecnici-2-05-ai.jpg">
-    <img align="right" src="zacatecnici-2-05-ai-small.jpg" style="height:85px">
-</a>
-<a href="zacatecnici-2-05-ai2.jpg">
-    <img align="right" src="zacatecnici-2-05-ai2-small.jpg" style="height:85px">
-</a>
-<a href="zacatecnici-2-05-code.org.jpg">
-    <img align="right" src="zacatecnici-2-05-code.org-small.jpg" style="height:85px">
-</a>
+<img align="right" src="zacatecnici-2-05-ai-small.jpg" data-full="zacatecnici-2-05-ai.jpg" style="height:85px" class="obrazek">
+<img align="right" src="zacatecnici-2-05-ai2-small.jpg" data-full="zacatecnici-2-05-ai2.jpg" style="height:85px" class="obrazek">
+<img align="right" src="zacatecnici-2-05-code.org-small.jpg" data-full="zacatecnici-2-05-code.org.jpg" style="height:85px" class="obrazek">
 
 * [zonerai - generátor obrázků](https://zonerai.com) - vyzkoušeli jsme si generovat různé zábavné obrázky pomocí umělé inteligence (a procvičili jsme si psaní na klávesnici)
 * [www.code.org](https://www.code.org)
@@ -240,18 +204,14 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 22. hodina (2025-03-20)
 
-<a href="zacatecnici-2-06-code-org.jpg">
-    <img align="right" src="zacatecnici-2-06-code-org-small.jpg" style="height:85px">
-</a>
+<img align="right" src="zacatecnici-2-06-code-org-small.jpg" data-full="zacatecnici-2-06-code-org.jpg" style="height:85px" class="obrazek">
 
 * [www.code.org](https://www.code.org)
   * Pokračování s umělcem
 
 ## 23. hodina (2025-03-27)
 
-<a href="zacatecnici-2-07-krita.jpg">
-    <img align="right" src="zacatecnici-2-07-krita-small.jpg" style="height:85px">
-</a>
+<img align="right" src="zacatecnici-2-07-krita-small.jpg" data-full="zacatecnici-2-07-krita.jpg" style="height:85px" class="obrazek">
 
 * [www.code.org](https://www.code.org)
   * Pokračování s umělcem a BB-8
@@ -260,9 +220,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 24. hodina (2025-04-03)
 
-<a href="zacatecnici-2-08-krita.jpg">
-    <img align="right" src="zacatecnici-2-08-krita-small.jpg" style="height:85px">
-</a>
+<img align="right" src="zacatecnici-2-08-krita-small.jpg" data-full="zacatecnici-2-08-krita.jpg" style="height:85px" class="obrazek">
 
 * [www.code.org](https://www.code.org)
   * Pokračování s umělcem a BB-8
@@ -271,18 +229,10 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 25. hodina (2025-04-10)
 
-<a href="zacatecnici-2-09-holcicka-maliri.jpg">
-    <img align="right" src="zacatecnici-2-09-holcicka-maliri-small.jpg" style="height:85px">
-</a>
-<a href="zacatecnici-2-09-napoj.jpg">
-    <img align="right" src="zacatecnici-2-09-napoj-small.jpg" style="height:85px">
-</a>
-<a href="zacatecnici-2-09-vajicka-styly.jpg">
-    <img align="right" src="zacatecnici-2-09-vajicka-styly-small.jpg" style="height:85px">
-</a>
-<a href="zacatecnici-2-09-zahrada.jpg">
-    <img align="right" src="zacatecnici-2-09-zahrada-small.jpg" style="height:85px">
-</a>
+<img align="right" src="zacatecnici-2-09-holcicka-maliri-small.jpg" data-full="zacatecnici-2-09-holcicka-maliri.jpg" style="height:85px" class="obrazek">
+<img align="right" src="zacatecnici-2-09-napoj-small.jpg" data-full="zacatecnici-2-09-napoj.jpg" style="height:85px" class="obrazek">
+<img align="right" src="zacatecnici-2-09-vajicka-styly-small.jpg" data-full="zacatecnici-2-09-vajicka-styly.jpg" style="height:85px" class="obrazek">
+<img align="right" src="zacatecnici-2-09-zahrada-small.jpg" data-full="zacatecnici-2-09-zahrada.jpg" style="height:85px" class="obrazek">
 
 * [www.code.org](https://www.code.org)
   * Pokračování s umělcem a BB-8
@@ -291,12 +241,8 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 26. hodina (2025-04-24)
 
-<a href="zacatecnici-2-10-kosticky2.jpg">
-    <img align="right" src="zacatecnici-2-10-kosticky2-small.jpg" style="height:85px">
-</a>
-<a href="zacatecnici-2-10-kosticky.jpg">
-    <img align="right" src="zacatecnici-2-10-kosticky-small.jpg" style="height:85px">
-</a>
+<img align="right" src="zacatecnici-2-10-kosticky2-small.jpg" data-full="zacatecnici-2-10-kosticky2.jpg" style="height:85px" class="obrazek">
+<img align="right" src="zacatecnici-2-10-kosticky-small.jpg" data-full="zacatecnici-2-10-kosticky.jpg" style="height:85px" class="obrazek">
 
 * Úlohy s kostičkami
   * Půdorys s tečkami
@@ -317,9 +263,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 28. hodina (2025-05-22)
 
-<a href="zacatecnici-2-12-scratch.jpg">
-    <img align="right" src="zacatecnici-2-12-scratch-small.jpg" style="height:85px">
-</a>
+<img align="right" src="zacatecnici-2-12-scratch-small.jpg" data-full="zacatecnici-2-12-scratch.jpg" style="height:85px" class="obrazek">
 
 * [scratch](https://scratch.mit.edu)
   * Seznámení s prostředím
@@ -331,12 +275,8 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 29. hodina (2025-05-29)
 
-<a href="zacatecnici-2-13-periferie.jpg">
-    <img align="right" src="zacatecnici-2-13-periferie-small.jpg" style="height:85px">
-</a>
-<a href="zacatecnici-2-13-periferie2.jpg">
-    <img align="right" src="zacatecnici-2-13-periferie2-small.jpg" style="height:85px">
-</a>
+<img align="right" src="zacatecnici-2-13-periferie-small.jpg" data-full="zacatecnici-2-13-periferie.jpg" style="height:85px" class="obrazek">
+<img align="right" src="zacatecnici-2-13-periferie2-small.jpg" data-full="zacatecnici-2-13-periferie2.jpg" style="height:85px" class="obrazek">
 
 * Počítačové periferie
   * Rozdělení - vstupní (input), výstupní (output) a vstupně-výstupní (in-out)
@@ -365,9 +305,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 32. hodina (2025-06-19)
 
-<a href="zacatecnici-2-16-scratch.jpg">
-    <img align="right" src="zacatecnici-2-16-scratch-small.jpg" style="height:85px">
-</a>
+<img align="right" src="zacatecnici-2-16-scratch-small.jpg" data-full="zacatecnici-2-16-scratch.jpg" style="height:85px" class="obrazek">
 
 * [scratch](https://scratch.mit.edu)
   * Vytvořili jsme si jednoduchou hru nachytání "myši" [zak1](https://scratch.mit.edu/projects/1190366596) [zak2](https://scratch.mit.edu/projects/1190367427) [zak3](https://scratch.mit.edu/projects/1190367720) [zak4](https://scratch.mit.edu/projects/1190366985)
@@ -375,6 +313,15 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
   * Na závěr jsme si ukázali, že scratch se dá ovládat i kamerou (viz obrázek)
 
 * * * * * * * * *
+
+<div id="overlay" class="overlay hidden">
+  <span id="prev" class="nav">&#9664;</span>
+  <img id="overlay-img" src="" alt="Obrázek">
+  <span id="next" class="nav">&#9654;</span>
+  <span id="close" class="close">&times;</span>
+</div>
+<link rel="stylesheet" href="/assets/gallery.css">
+<script src="/assets/gallery.js"></script>
 
 <a name="footnote1">1</a>: Dle psychologa [Jeana Piageta](https://cs.wikipedia.org/wiki/Jean\_Piaget)
 nelze děti mladší 6-7 let učit systematické vědy, neboť se nacházejí

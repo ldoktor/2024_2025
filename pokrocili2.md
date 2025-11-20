@@ -33,9 +33,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 1. hodina (2024-09-19)
 
-<a href="pokrocili2-1-01-plan.jpg">
-    <img align="right" src="pokrocili2-1-01-plan-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili2-1-01-plan-small.jpg" data-full="pokrocili2-1-01-plan.jpg" style="height:85px" class="obrazek">
 
 * Brainstorming ohledně projeků, kterým bychom se chtěli věnovat
 * Psaní všemi deseti [s Máriem](https://archive.org/details/TYPING_VGA#)
@@ -62,9 +60,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 3. hodina (2024-10-04)
 
-<a href="pokrocili2-1-03-blender.jpg">
-    <img align="right" src="pokrocili2-1-03-blender-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili2-1-03-blender-small.jpg" data-full="pokrocili2-1-03-blender.jpg" style="height:85px" class="obrazek">
 
 * Psaní všemi deseti [s pomocí umimeinformatiku](https://www.umimeinformatiku.cz/psani-vsemi-deseti)
 * Papírový model [v Blenderu](https://blender.org)
@@ -76,9 +72,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 4. hodina (2024-10-10)
 
-<a href="pokrocili2-1-04-psani.jpg">
-    <img align="right" src="pokrocili2-1-04-psani-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili2-1-04-psani-small.jpg" data-full="pokrocili2-1-04-psani.jpg" style="height:85px" class="obrazek">
 
 * Psaní všemi deseti [s pomocí umimeinformatiku](https://www.umimeinformatiku.cz/psani-vsemi-deseti)
 * Papírový model [v Blenderu](https://blender.org)
@@ -91,9 +85,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 5. hodina (2024-10-17)
 
-<a href="pokrocili2-1-05-blender.jpg">
-    <img align="right" src="pokrocili2-1-05-blender-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili2-1-05-blender-small.jpg" data-full="pokrocili2-1-05-blender.jpg" style="height:85px" class="obrazek">
 
 * Psaní všemi deseti [s pomocí umimeinformatiku](https://www.umimeinformatiku.cz/psani-vsemi-deseti)
 * Papírový model [v Blenderu](https://blender.org)
@@ -121,9 +113,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 8. hodina (2024-11-07)
 
-<a href="pokrocili2-1-08-blender.jpg">
-    <img align="right" src="pokrocili2-1-08-blender-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili2-1-08-blender-small.jpg" data-full="pokrocili2-1-08-blender.jpg" style="height:85px" class="obrazek">
 
 * Papírový model [v Blenderu](https://blender.org)
   * Vytvořili jsme banán [blend](pokrocili2-1-08-blender.blend)
@@ -173,9 +163,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 12. hodina (2024-12-05)
 
-<a href="pokrocili2-1-12-mikulas.jpg">
-    <img align="right" src="pokrocili2-1-12-mikulas-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili2-1-12-mikulas-small.jpg" data-full="pokrocili2-1-12-mikulas.jpg" style="height:85px" class="obrazek">
 
 * Předání modelů a diskuze na téma 3d tisk [banán](pokrocili2-1-12-banan.pdf), [auto](pokrocili2-1-12-auto.pdf), [pistole1](pokrocili2-1-12-pistole1.pdf), [pistole2](pokrocili2-1-12-pistole2.pdf), [charmander](pokrocili2-1-12-charmander.pdf)[+barevně označené části](pokrocili2-1-12-charmander-casti.pdf)
 * Rychlokurz lepení papírových modelů
@@ -192,12 +180,8 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 13. hodina (2024-12-12)
 
-<a href="pokrocili2-1-13-microbit.jpg">
-    <img align="right" src="pokrocili2-1-13-microbit-small.jpg" style="height:85px">
-</a>
-<a href="pokrocili2-1-13-modely.jpg">
-    <img align="right" src="pokrocili2-1-13-modely-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili2-1-13-microbit-small.jpg" data-full="pokrocili2-1-13-microbit.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili2-1-13-modely-small.jpg" data-full="pokrocili2-1-13-modely.jpg" style="height:85px" class="obrazek">
 
 * Papírový model
   * Někteří mě příjemně překvapily a donesli slepené modely, viz. fotky
@@ -206,17 +190,13 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 14. hodina (2024-12-19)
 
-<a href="pokrocili2-1-14-pc.jpg">
-    <img align="right" src="pokrocili2-1-14-pc-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili2-1-14-pc-small.jpg" data-full="pokrocili2-1-14-pc.jpg" style="height:85px" class="obrazek">
 
 * Rozmontování, složení a spuštění počítače, popis komponent a jejich funkcí.
 
 ## 15. hodina (2025-01-09)
 
-<a href="pokrocili2-1-15-microbit.jpg">
-    <img align="right" src="pokrocili2-1-15-microbit-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili2-1-15-microbit-small.jpg" data-full="pokrocili2-1-15-microbit.jpg" style="height:85px" class="obrazek">
 
 * [Micro:bit](../assets/microbit)
   * Seznámení s ``Wonder Building Kitem``
@@ -239,12 +219,10 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 19. hodina (2025-02-20)
 
-<a href="pokrocili2-2-03-moto.jpg">
-    <img align="right" src="pokrocili2-2-03-moto-small.jpg" style="height:85px">
-</a>
 <a href="https://www.youtube.com/watch?v=GONJSyvt234">
     <img align="right" src="video-0-0-motorka-small.jpg" style="height:85px">
 </a>
+<img align="right" src="pokrocili2-2-03-moto-small.jpg" data-full="pokrocili2-2-03-moto.jpg" style="height:85px" class="obrazek">
 
 * [Micro:bit](../assets/microbit)
   * Motorka na dálkové ovládání pomocí microbit + ``Wonder Building Kit``, vlastní model od Kuby a odladění dálkového ovládání (ostatní byli nemocní/chyběli)
@@ -252,9 +230,7 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 
 ## 20. hodina (2025-02-27)
 
-<a href="pokrocili2-2-04-algoritmy.jpg">
-    <img align="right" src="pokrocili2-2-04-algoritmy-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili2-2-04-algoritmy-small.jpg" data-full="pokrocili2-2-04-algoritmy.jpg" style="height:85px" class="obrazek">
 
 * Algoritmy
   * [Pěkné video vysvětlující co to jsou algoritmy](https://www.youtube.com/watch?v=HsO2reAF0IA)
@@ -266,15 +242,9 @@ Kurz bude organizován a veden [Lukášem Doktorem](../lectors/ldoktor)
 ## 21. hodina (2025-03-13)
 
 
-<a href="pokrocili2-2-05-ai.jpg">
-    <img align="right" src="pokrocili2-2-05-ai-small.jpg" style="height:85px">
-</a>
-<a href="pokrocili2-2-10-terc_bb.jpg">
-    <img align="right" src="pokrocili2-2-10-terc_bb-small.jpg" style="height:85px">
-</a>
-<a href="pokrocili2-2-10-terc_schem.jpg">
-    <img align="right" src="pokrocili2-2-10-terc_schem-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili2-2-05-ai-small.jpg" data-full="pokrocili2-2-05-ai.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili2-2-10-terc_bb-small.jpg" data-full="pokrocili2-2-10-terc_bb.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili2-2-10-terc_schem-small.jpg" data-full="pokrocili2-2-10-terc_schem.jpg" style="height:85px" class="obrazek">
 
 * [Micro:bit](../assets/microbit)
   * Zapojení fotorezistoru na breadboardu - napětí se rozdělí mezi pull-up rezistor a fotorezistor, hodnota fotorezistoru se mění dle osvětlení a tím se nám mění na
@@ -284,18 +254,14 @@ na klávesnici)
 
 ## 22. hodina (2025-03-20)
 
-<a href="pokrocili2-2-06-microbit.jpg">
-    <img align="right" src="pokrocili2-2-06-microbit-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili2-2-06-microbit-small.jpg" data-full="pokrocili2-2-06-microbit.jpg" style="height:85px" class="obrazek">
 
 * [Micro:bit](../assets/microbit)
   * Tvorba programu pro detekci světla a opakování zapojení fotorezistoru
 
 ## 23. hodina (2025-03-27)
 
-<a href="pokrocili2-2-07-microbit.jpg">
-    <img align="right" src="pokrocili2-2-07-microbit-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili2-2-07-microbit-small.jpg" data-full="pokrocili2-2-07-microbit.jpg" style="height:85px" class="obrazek">
 
 * [Micro:bit](../assets/microbit)
   * Test terče a tvorba platformy s pohyblivým uchycením terče
@@ -312,9 +278,7 @@ na klávesnici)
 
 ## 25. hodina (2025-04-10)
 
-<a href="pokrocili2-2-09-microbit.jpg">
-    <img align="right" src="pokrocili2-2-09-microbit-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili2-2-09-microbit-small.jpg" data-full="pokrocili2-2-09-microbit.jpg" style="height:85px" class="obrazek">
 
 * [Micro:bit](../assets/microbit)
   * Návrh protokolu mezi serverem a terči
@@ -323,15 +287,9 @@ na klávesnici)
 
 ## 26. hodina (2025-04-24)
 
-<a href="pokrocili2-2-10-microbit2.jpg">
-    <img align="right" src="pokrocili2-2-10-microbit2-small.jpg" style="height:85px">
-</a>
-<a href="pokrocili2-2-10-microbit.jpg">
-    <img align="right" src="pokrocili2-2-10-microbit-small.jpg" style="height:85px">
-</a>
-<a href="pokrocili2-2-10-laser_schem.svg">
-    <img align="right" src="pokrocili2-2-10-laser_schem-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili2-2-10-microbit2-small.jpg" data-full="pokrocili2-2-10-microbit2.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili2-2-10-microbit-small.jpg" data-full="pokrocili2-2-10-microbit.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili2-2-10-laser_schem-small.jpg" data-full="pokrocili2-2-10-laser_schem.svg" style="height:85px" class="obrazek">
 
 * Zapojení laserů v modelu
   * Bojovali jsme s propojením drátků (pájení by bylo lepší, ale hůře rozebíratelné)
@@ -342,9 +300,7 @@ na klávesnici)
 
 ## 27. hodina (2025-05-15)
 
-<a href="pokrocili2-2-11-microbit.jpg">
-    <img align="right" src="pokrocili2-2-11-microbit-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili2-2-11-microbit-small.jpg" data-full="pokrocili2-2-11-microbit.jpg" style="height:85px" class="obrazek">
 
 * [Micro:bit](../assets/microbit)
   * Implementace terče
@@ -359,12 +315,8 @@ na klávesnici)
 
 ## 29. hodina (2025-05-29)
 
-<a href="zacatecnici-2-13-periferie2.jpg">
-    <img align="right" src="zacatecnici-2-13-periferie2-small.jpg" style="height:85px">
-</a>
-<a href="pokrocili2-2-13-periferie.jpg">
-    <img align="right" src="pokrocili2-2-13-periferie-small.jpg" style="height:85px">
-</a>
+<img align="right" src="zacatecnici-2-13-periferie2-small.jpg" data-full="zacatecnici-2-13-periferie2.jpg" style="height:85px" class="obrazek">
+<img align="right" src="pokrocili2-2-13-periferie-small.jpg" data-full="pokrocili2-2-13-periferie.jpg" style="height:85px" class="obrazek">
 
 * Delší test laserové střelnice
 * Počítačové periferie
@@ -384,9 +336,7 @@ na klávesnici)
 
 ## 31. hodina (2025-06-12)
 
-<a href="pokrocili2-2-15-code-org.jpg">
-    <img align="right" src="pokrocili2-2-15-code-org-small.jpg" style="height:85px">
-</a>
+<img align="right" src="pokrocili2-2-15-code-org-small.jpg" data-full="pokrocili2-2-15-code-org.jpg" style="height:85px" class="obrazek">
 
 * Speedrun pokročilého kurzu [code.org](https://www.code.org)
   * většina zvládla pokročilé cykly, někteří se dostali i na podmínky
@@ -399,5 +349,14 @@ na klávesnici)
 
 * Hra - namaž mi toustík
  * Zábavná aktivita při které se děti snažily jednoznačně popsat sekvenci vedoucí k vytvoření lahodného toustíku
+
+<div id="overlay" class="overlay hidden">
+  <span id="prev" class="nav">&#9664;</span>
+  <img id="overlay-img" src="" alt="Obrázek">
+  <span id="next" class="nav">&#9654;</span>
+  <span id="close" class="close">&times;</span>
+</div>
+<link rel="stylesheet" href="/assets/gallery.css">
+<script src="/assets/gallery.js"></script>
 
 <img align="right" src="../media/robots_bottom.jpg">
